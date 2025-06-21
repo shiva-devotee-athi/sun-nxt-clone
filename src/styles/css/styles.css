@@ -1,0 +1,1341 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, sans-serif !important;
+}
+
+.changepassword_psw_page__PP8to {
+  width: 100%;
+  height: 100vh;
+  float: left;
+  display: table;
+  position: fixed;
+  z-index: 99;
+  top: 0;
+  left: 0;
+  opacity: 0.99;
+}
+
+.changepassword_changepsw__7BDt9 {
+  width: 450px;
+  float: right;
+  background: #151522 0 0 no-repeat padding-box;
+  box-shadow: -1px 0 2px #0000003d;
+  display: block;
+  padding: 49px;
+  min-height: 100%;
+  overflow: auto;
+  height: 100vh;
+}
+
+.changepassword_confirm_psw__ad4Oy,
+.changepassword_current_psw__kKigj,
+.changepassword_new_psw__xGt_2 {
+  border: none;
+  border-bottom: 1px solid #ffffff99;
+  border-radius: 0;
+  padding: 0.3rem;
+  outline: none;
+  background-color: transparent;
+  margin-bottom: 20px;
+  text-align: left;
+  font-size: 15px;
+  letter-spacing: 0.05px;
+  color: #fff;
+  opacity: 0.6;
+}
+
+.changepassword_page_title__C1lXE {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.changepassword_model_btn__ZSruD {
+  position: absolute;
+  bottom: 10px;
+  padding: 0 25px;
+}
+
+.changepassword_model_btn__ZSruD .changepassword_model_canel__tjeY6 {
+  border-radius: 20px;
+  border: 1px solid #fff;
+  background: none;
+  color: #fff;
+  width: 140px;
+  height: 35px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.changepassword_model_btn__ZSruD .changepassword_model_select__K_Xhv {
+  border-radius: 20px;
+  border: none;
+  background: #a80929;
+  color: #fff;
+  width: 140px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.changepassword_main_psw_required__217CZ {
+  background: #232323 0 0 no-repeat padding-box;
+  border-radius: 8px;
+  box-shadow: -1px 0 2px #0000003d;
+  width: 400px;
+  float: left;
+  display: table;
+  position: fixed;
+  z-index: 99;
+  top: 30%;
+  left: 30%;
+  opacity: 0.99;
+}
+
+.changepassword_wrap_psw__YVJSZ {
+  float: center;
+  display: block;
+  padding: 20px 18px;
+  min-height: 100%;
+  overflow: auto;
+}
+
+.changepassword_wrap_psw__YVJSZ p {
+  letter-spacing: 0.08px;
+  color: #fff;
+  opacity: 0.9;
+  font-size: 12px;
+  margin: 0;
+}
+
+.changepassword_wrap_psw__YVJSZ h3 {
+  letter-spacing: 0;
+  color: #fff;
+  text-transform: capitalize;
+  opacity: 1;
+  font-size: 20px;
+  margin: 0;
+  font-weight: 400;
+  background-size: 14px;
+  background-position: 100%;
+}
+
+.changepassword_main_psw_required__217CZ
+  .changepassword_wrap_psw__YVJSZ
+  .changepassword_close_image__B4o9e {
+  width: 15px;
+  position: absolute;
+  right: 15px;
+  top: 22px;
+  cursor: pointer;
+}
+
+.changepassword_main_psw_required__217CZ
+  .changepassword_wrap_psw__YVJSZ
+  .changepassword_show_icon__Q2Dok {
+  position: absolute;
+  right: 25px;
+  border: none;
+  background: none;
+  margin-top: -25px;
+}
+
+.changepassword_main_psw_required__217CZ
+  .changepassword_wrap_psw__YVJSZ
+  .changepassword_show_icon__Q2Dok
+  img {
+  width: 26px;
+}
+
+.changepassword_email_req__eXr9q {
+  background: #ffffff1a 0 0 no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 0.7;
+}
+
+.changepassword_mail_req__0FJ1U p {
+  color: #fff;
+  opacity: 0.5;
+  font-size: 12px;
+}
+
+.changepassword_input_form__8Ls1V {
+  border: none;
+  border-bottom: 1px solid #ffffff99;
+  border-radius: 0;
+  outline: none;
+  background-color: transparent;
+  text-align: left;
+  font-size: 15px;
+  letter-spacing: 0.05px;
+  color: #fff;
+  opacity: 0.6;
+  margin-top: 10px;
+  padding: 0;
+}
+
+.changepassword_displaycursor__OPwiR {
+  cursor: pointer;
+}
+
+.changepassword_wrap_psw__YVJSZ form {
+  background: #ffffff1a 0 0 no-repeat padding-box;
+  border-radius: 5px;
+  opacity: 0.7;
+  margin-top: 20px;
+  padding: 15px;
+}
+
+.changepassword_psw_req_btn__GWlCK {
+  float: right;
+  margin-top: 15px;
+}
+
+.changepassword_psw_req_cancel__2iZE7 {
+  cursor: pointer;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  background: none;
+  color: #fff;
+  width: 100px;
+  height: 35px;
+  margin-right: 10px;
+}
+
+.changepassword_psw_req_submit__I2lm1 {
+  cursor: pointer;
+  border-radius: 20px;
+  border: none;
+  background: #a80929;
+  color: #fff;
+  width: 100px;
+  height: 35px;
+}
+
+.changepassword_myprofile_logo__ivKZ7 {
+  padding-right: 10px;
+  float: left;
+  position: relative;
+}
+
+.changepassword_myprofile_logo__ivKZ7 img {
+  width: 70px;
+}
+
+.changepassword_edit_profile__bW0Hl {
+  width: 30px;
+  background-color: #151522;
+  border-radius: 50%;
+  position: absolute;
+  padding-top: 4px;
+  padding-left: 2px;
+  left: 40px;
+  top: 41px;
+}
+
+.changepassword_edit_profile__bW0Hl img {
+  width: 30px;
+  margin-top: -1px;
+}
+
+.changepassword_forget_password__yufj9 {
+  float: right;
+  font-size: 14px;
+  letter-spacing: 0.04px;
+  color: #ffdd1a;
+  opacity: 0.9;
+}
+
+.changepassword_myprofile_logo__ivKZ7 button {
+  float: right;
+  border-radius: 20px;
+  background: none;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 5px;
+  width: 170px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.changepassword_editprofile_language_buttons__vN7K3 {
+  width: 350px;
+  height: 100px;
+  background: #232323;
+  padding: 5px 10px;
+}
+
+.changepassword_editprofile_language_buttons__vN7K3 h5 {
+  letter-spacing: 0;
+  color: #fff;
+  opacity: 1;
+  margin: 0;
+}
+
+.changepassword_editpopup_buttons__cs_5w {
+  width: 100%;
+  float: left;
+}
+
+.changepassword_editpopup_buttons__cs_5w ul {
+  width: 100%;
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.changepassword_editpopup_buttons__cs_5w ul li {
+  float: left;
+  padding: 3px 5px;
+}
+
+.changepassword_editpopup_buttons__cs_5w ul li button {
+  background: #232323 0 0 no-repeat padding-box;
+  border-radius: 27px;
+  outline: none;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 1px 10px;
+  cursor: pointer;
+}
+
+.changepassword_editpopup_buttons__cs_5w ul li button:focus {
+  background: #a80929;
+  border: 1px solid #a80929;
+}
+
+.changepassword_select_maturity_restrictions__b1bKH {
+  width: 350px;
+  height: 60px;
+  background: #232323;
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+.changepassword_select_maturity_restrictions__b1bKH h3 {
+  color: #fff;
+  font-size: 14px;
+  margin: 0;
+  padding-bottom: 5px;
+}
+
+.changepassword_select_maturity_restrictions__b1bKH img {
+  float: right;
+  width: 6px;
+}
+
+.changepassword_edit_info__grm_L {
+  color: #ccc;
+  font-size: 14px;
+}
+
+.changepassword_set_pin__goy8P {
+  width: 350px;
+  height: 40px;
+  background: #232323;
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+.changepassword_set_pin__goy8P h3 {
+  margin-top: 5px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.changepassword_set_pin__goy8P img {
+  float: right;
+  width: 6px;
+  margin-top: 10px;
+}
+
+.changepassword_successmsg__dKxEL {
+  color: green;
+}
+
+.changepassword_errmsg__j4kmi {
+  color: red;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.changepassword_active_lang__VfgF8 {
+  background-color: #a80929 !important;
+  border: 1px solid #a80929 !important;
+}
+
+.changepassword_forgot_pin__6WdWA {
+  color: #fff;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .changepassword_psw_page__PP8to {
+    float: left;
+  }
+
+  .changepassword_changepsw__7BDt9 {
+    width: 360px;
+    padding-left: 20px;
+  }
+
+  .changepassword_model_btn__ZSruD {
+    padding: 0;
+    position: relative;
+    top: 20px;
+  }
+
+  .changepassword_page_title__C1lXE {
+    font-size: 18px;
+    margin-top: 0;
+  }
+
+  .changepassword_main_psw_required__217CZ {
+    width: 80%;
+  }
+
+  .changepassword_wrap_psw__YVJSZ h3 {
+    font-size: 18px;
+  }
+}
+
+.changepassword_main_remove_prof__2ourc h2 {
+  text-align: center;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.changepassword_main_remove_prof__2ourc p {
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+}
+
+.changepassword_main_remove_prof__2ourc .changepassword_img_text__98_tj {
+  text-align: center;
+  position: relative;
+  margin-top: 20px;
+}
+
+.changepassword_main_remove_prof__2ourc
+  .changepassword_img_text__98_tj
+  .changepassword_col_60__EX_aN {
+  width: 60%;
+}
+
+.changepassword_main_remove_prof__2ourc
+  .changepassword_img_text__98_tj
+  .changepassword_col_40__AhduQ {
+  width: 40%;
+}
+
+.changepassword_main_remove_prof__2ourc .changepassword_img_text__98_tj img {
+  width: 35%;
+  border-radius: 50%;
+  margin-left: 25%;
+}
+
+.changepassword_main_remove_prof__2ourc .changepassword_img_text__98_tj h4 {
+  position: absolute;
+  left: 55%;
+  top: 5%;
+  color: #fff;
+  font-weight: 400;
+}
+
+@media screen and (min-width: 150px) and (max-device-width: 500px) {
+  .changepassword_main_psw_required__217CZ {
+    opacity: 0.99;
+    top: 25%;
+    left: 10%;
+    z-index: 99;
+  }
+}
+
+.changepassword_main_session_expired__knrIw
+  .changepassword_main_psw_required__217CZ {
+  background: #232323 0 0 no-repeat padding-box;
+  border-radius: 8px;
+  box-shadow: -1px 0 2px #0000003d;
+  width: 550px;
+  float: left;
+  display: table;
+  position: fixed;
+  z-index: 99;
+  top: 30%;
+  left: 30%;
+  opacity: 0.99;
+}
+
+.changepassword_main_session_expired__knrIw
+  .changepassword_main_psw_required__217CZ
+  .changepassword_wrap_psw__YVJSZ
+  h1 {
+  font-size: 19px;
+}
+
+.changepassword_main_session_expired__knrIw
+  .changepassword_main_psw_required__217CZ
+  .changepassword_wrap_psw__YVJSZ
+  p {
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+.changepassword_main_session_expired__knrIw
+  .changepassword_main_psw_required__217CZ
+  .changepassword_model_btn_new__EpoBP {
+  width: 45%;
+  margin: auto;
+  margin-top: 35px !important;
+}
+
+.changepassword_main_session_expired__knrIw
+  .changepassword_main_psw_required__217CZ
+  .changepassword_model_btn_new__EpoBP
+  button {
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.changepassword_main_session_expired__knrIw
+  .changepassword_main_psw_required__217CZ
+  .changepassword_model_btn_new__EpoBP
+  .changepassword_login__cyVBH {
+  background-color: #a80929;
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.changepassword_main_session_expired__knrIw
+  .changepassword_main_psw_required__217CZ
+  .changepassword_model_btn_new__EpoBP
+  .changepassword_cancel__9q8uA {
+  background-color: #262626;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+@media screen and (min-width: 150px) and (max-device-width: 525px) {
+  .changepassword_main_session_expired__knrIw
+    .changepassword_main_psw_required__217CZ {
+    opacity: 0.99;
+    top: 25%;
+    left: 10%;
+    z-index: 99;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 530px) {
+  .changepassword_main_session_expired__knrIw
+    .changepassword_main_psw_required__217CZ {
+    width: 80%;
+    left: 10%;
+  }
+}
+
+@media screen and (min-width: 530px) and (max-device-width: 950px) {
+  .changepassword_main_session_expired__knrIw
+    .changepassword_main_psw_required__217CZ {
+    opacity: 0.99;
+    top: 25%;
+    left: 15%;
+    z-index: 99;
+    width: 60%;
+  }
+}
+
+.header_nav__JpY1D {
+  width: 100%;
+  position: fixed;
+  z-index: 99;
+  height: 60px;
+  padding: 0 35px;
+  background: #262626;
+}
+
+.header_headermenu__BjsXA .header_logo__6wvZ3 {
+  width: 48px;
+  float: left;
+  margin-top: 7px;
+  cursor: pointer;
+}
+
+.header_menu__cfTtF {
+  float: left;
+  margin-top: 4px;
+  padding-left: 15px;
+}
+
+.header_menu__cfTtF li {
+  float: left;
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+  line-height: 50px;
+  margin: 0 15px;
+  display: block;
+  position: relative;
+  font-weight: 400;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.header_menu__cfTtF li.header_active__z_yDL {
+  border-bottom: 2px solid #fce45e;
+  color: #fce45e;
+}
+
+.header_active__z_yDL {
+  color: #fce45e;
+}
+
+.header_right_content__yUA4F {
+  float: right;
+  display: flex;
+  margin-top: 12px;
+}
+
+.header_profile_arrow__Ukb1z {
+  float: right;
+}
+
+.header_search__c2rgI {
+  position: relative;
+  float: left;
+  font-size: 14px;
+}
+
+.header_search_desktop__CO7wb {
+  float: right;
+  width: 60%;
+  padding-left: 25px;
+  height: 25px;
+  border-radius: 14px;
+  margin-right: 13px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  position: relative;
+  color: #999;
+  outline: none;
+}
+
+.header_search__c2rgI .header_background_img__nvqOn {
+  cursor: pointer;
+  border: none;
+  background: none;
+  margin: 5px 10px;
+  padding: 0;
+}
+
+.header_search__c2rgI .header_background_img__nvqOn img {
+  width: 29px;
+  position: relative;
+  bottom: 4px;
+}
+
+.header_languages__xpje_ {
+  position: relative;
+}
+
+.header_language_icon__ZLX3G {
+  position: absolute;
+  left: 11px;
+  top: 8px;
+  width: 18px;
+}
+
+.header_caret__vfeUE,
+.header_up_arrow__1yK6O {
+  position: absolute;
+  right: 9px;
+  top: 14px;
+  width: 10px;
+}
+
+.header_up_arrow__1yK6O {
+  display: none;
+}
+
+.header_languages__xpje_:hover .header_up_arrow__1yK6O {
+  display: block;
+}
+
+.header_languages__xpje_:hover .header_caret__vfeUE {
+  display: none;
+}
+
+.header_languages__xpje_ button {
+  float: right;
+  height: 28px;
+  margin-top: 3px;
+  border-radius: 14px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  position: relative;
+  color: #fff;
+  outline: none;
+  width: 130px;
+  font-size: 12px;
+}
+
+.header_languages__xpje_:hover .header_btn__A5Dou {
+  background-color: #a80929;
+  border: 1px solid #a80929;
+  border-bottom: none;
+  border-radius: 14px 14px 0 0;
+}
+
+.header_languages__xpje_:hover .header_languages_list__gaALr {
+  display: block;
+  border-radius: 0 0 14px 14px;
+  transform: translatey(0);
+  transition: transform 0.7s;
+  transition-delay: 10s;
+}
+
+.header_languages_list__gaALr ul li:hover {
+  background-color: #00000029;
+}
+
+.header_languages_list__gaALr {
+  position: absolute;
+  z-index: 15;
+  color: #fff;
+  background-color: #a80929;
+  margin-top: 25px;
+  border-radius: 0 0 14px 14px;
+  border-top: none;
+  display: none;
+  transform: translatey(0);
+  transition: transform 0.7s;
+  transition-delay: 10s;
+}
+
+.header_languages_list__gaALr .header_apply_button__qRdfr {
+  width: 100px;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-right: 14px;
+  cursor: pointer;
+  color: #000;
+  background-color: #fff;
+}
+
+.header_languages__xpje_ .header_languages_list__gaALr ul {
+  padding: 0;
+  margin: 8px 0;
+  width: 130px;
+}
+
+.header_languages__xpje_ .header_languages_list__gaALr ul li {
+  cursor: pointer;
+  position: relative;
+  list-style: none;
+  padding: 5px 5px 5px 12px;
+}
+
+.header_languages__xpje_ .header_languages_list__gaALr ul li label {
+  display: inline-block;
+  text-transform: lowercase;
+}
+
+.header_languages__xpje_
+  .header_languages_list__gaALr
+  ul
+  li
+  label:first-letter {
+  text-transform: capitalize;
+}
+
+.header_languages__xpje_ .header_languages_list__gaALr ul li label:first-child {
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 0 5px 5px 30px;
+  top: 2px;
+  position: relative;
+}
+
+.header_squarecheckbox___FkeU {
+  position: absolute;
+  width: 18px;
+  float: left;
+  top: 5px;
+}
+
+.header_squarecheckbox___FkeU label {
+  background-color: transparent;
+  border: 1px solid #fff;
+  cursor: pointer;
+  height: 13px;
+  left: 0;
+  top: 5px;
+  position: absolute;
+  width: 13px;
+  border-radius: 2px;
+}
+
+.header_squarecheckbox___FkeU label:after {
+  border: 2px solid #fce45e;
+  border-top: none;
+  border-right: none;
+  content: "";
+  height: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-45deg);
+  width: 13px;
+}
+
+.header_squarecheckbox___FkeU input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.header_squarecheckbox___FkeU input[type="checkbox"]:checked + label {
+  border-color: #fce45e;
+}
+
+.header_squarecheckbox___FkeU input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+}
+
+.header_myaccount_logo__LnEUB img {
+  width: 70px;
+  cursor: pointer;
+}
+
+.header_myaccount_logo__LnEUB {
+  margin-left: 10px;
+  float: right;
+}
+
+.header_myaccount_logo__LnEUB span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 14px;
+  letter-spacing: 0.12px;
+  color: #fff;
+  width: 58px;
+  margin-top: 10px;
+  float: right;
+}
+
+.header_myaccount__XYM8A {
+  float: right;
+}
+
+.header_myaccount__XYM8A:hover .header_dropdown_myaccount__MOK2h {
+  display: block;
+}
+
+.header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h {
+  display: none;
+  top: 50px;
+  background: #232323 0 0 no-repeat padding-box;
+  box-shadow: 0 3px 6px #00000029;
+  min-width: 170px;
+  position: absolute;
+  z-index: 999;
+  float: left;
+  padding: 0;
+  font-size: 14px;
+  right: 0;
+  border-radius: 8px;
+  margin: 2px 10px 0 0;
+  cursor: pointer;
+  color: #fff;
+}
+
+.header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h ul li {
+  padding: 10px 0 10px 18px;
+  font-size: 13px;
+}
+
+.header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h ul li img {
+  width: 18px;
+  margin-right: 11px;
+  position: relative;
+  top: 4px;
+}
+
+.header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h ul li:hover {
+  background: #ffffff1a 0 0 no-repeat padding-box;
+}
+
+.header_myaccount__XYM8A
+  .header_dropdown_myaccount__MOK2h
+  ul
+  .header_logout__1Xu3f {
+  letter-spacing: 0;
+  color: #ffdd1a;
+}
+
+.header_myaccount__XYM8A
+  .header_dropdown_myaccount__MOK2h
+  ul
+  .header_logout__1Xu3f:hover {
+  border-radius: 0 0 12px 12px;
+}
+
+.header_myaccount__XYM8A
+  .header_dropdown_myaccount__MOK2h
+  ul
+  .header_myprofile__92dLG {
+  border-radius: 8px 8px 0 0;
+  opacity: 1;
+}
+
+.header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h:before {
+  content: "";
+  display: inline-block;
+  top: -18px;
+  border: 7px solid transparent;
+  border-bottom: 12px solid #212121;
+  position: absolute;
+  right: 50px;
+}
+
+.header_home__hNAJD {
+  width: 100%;
+  float: left;
+  background: #151522 0 0 no-repeat padding-box;
+  min-height: 800px;
+  margin-top: 60px;
+}
+
+.header_search__c2rgI input::-moz-placeholder {
+  color: #fff;
+  font-size: 13px;
+}
+
+.header_search__c2rgI input:-ms-input-placeholder {
+  color: #fff;
+  font-size: 13px;
+}
+
+.header_search__c2rgI input::placeholder {
+  color: #fff;
+  font-size: 13px;
+}
+
+.header_movie_hover__3LBzk {
+  width: 100%;
+  float: left;
+}
+
+.header_hovermenu__Ejnss {
+  position: absolute;
+  background: #232323fc 0 0 no-repeat padding-box;
+  box-shadow: 0 3px 6px #00000029;
+  border-radius: 0 0 12px 12px;
+  width: 100%;
+  float: left;
+  left: 0;
+  padding: 30px;
+}
+
+.header_genres__fY_hv {
+  float: left;
+  display: block;
+  width: 17%;
+}
+
+.header_genres__fY_hv h1,
+.header_trending_movies__cYBEv h1 {
+  color: #ffdd1a;
+  padding-left: 21px;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 8px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.header_genres__fY_hv ul,
+.header_trending_movies__cYBEv ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.header_genres__fY_hv ul li {
+  color: #999;
+  list-style: none;
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: 500;
+  width: 135px;
+  cursor: pointer;
+}
+
+.header_trending_movies__cYBEv img {
+  width: 100%;
+  border-radius: 5px;
+  height: 60px;
+}
+
+.header_trending_movies__cYBEv ul li {
+  width: 120px;
+}
+
+.header_trending_movies__cYBEv li a {
+  margin: 0;
+  padding: 0 5px;
+}
+
+.header_trending_movies__cYBEv {
+  float: left;
+  display: block;
+  width: 33%;
+}
+
+.header_btn_viewall__z5Vw8 button {
+  float: right;
+  background: none;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  width: 100px;
+  height: 35px;
+  color: #fff;
+  position: absolute;
+  right: 40px;
+  margin: 80px auto;
+}
+
+.header_btn_viewall__z5Vw8 button:hover {
+  background-color: #a80929;
+  border: none;
+}
+
+.header_hovermenu__Ejnss {
+  display: none;
+}
+
+.header_movie_hover__3LBzk:hover .header_hovermenu__Ejnss {
+  display: block;
+}
+
+.header_sunscription_button__shqYE {
+  width: 100%;
+  margin-top: 2px !important;
+  padding: 2px 13px !important;
+  background-color: #c10c3a !important;
+  border-radius: 40px !important;
+  font-size: 14px !important;
+  letter-spacing: 0.05px !important;
+  color: #fff;
+  outline: none;
+}
+
+.header_scroll_right_arrow__EwwHQ {
+  display: none;
+}
+
+.header_disabled__E9wP_ {
+  pointer-events: none;
+}
+
+@media screen and (max-width: 767px) {
+  .header_scroll_right_arrow__EwwHQ {
+    float: left;
+    position: absolute;
+    right: 0;
+    background: #262626;
+    top: 24px;
+    width: 22px;
+    display: block;
+  }
+
+  .header_scroll_right_arrow__EwwHQ img {
+    padding-left: 4px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 1208px) {
+  .header_mobile_menu__GMFZO {
+    overflow: hidden;
+    white-space: nowrap;
+    top: 49px;
+    bottom: inherit;
+    z-index: 1;
+    padding-left: 6px;
+    width: 72%;
+  }
+
+  .header_menu__cfTtF {
+    display: flex;
+    display: -webkit-flex;
+    width: 100%;
+    padding: 5px 0 0;
+    overflow-y: scroll;
+    margin-bottom: 0;
+  }
+
+  .header_menu__cfTtF li {
+    font-size: 15px;
+  }
+
+  .header_menu__cfTtF::-webkit-scrollbar {
+    display: none;
+  }
+
+  .header_nav__JpY1D {
+    padding: 0 10px;
+  }
+
+  .header_languages__xpje_ {
+    display: none;
+  }
+
+  .header_right_content__yUA4F {
+    position: absolute;
+    top: 5px;
+    right: 0;
+  }
+
+  .header_headermenu__BjsXA .header_logo__6wvZ3 {
+    width: 41px;
+    margin-top: 12px;
+  }
+
+  .header_scroll_right_arrow__EwwHQ,
+  .header_search__c2rgI {
+    display: none;
+  }
+
+  .header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h {
+    top: 40px;
+    margin-right: 5px;
+  }
+
+  .header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h:before {
+    right: 35px;
+  }
+
+  .header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h ul li {
+    font-size: 14px;
+  }
+
+  .header_myaccount__XYM8A .header_dropdown_myaccount__MOK2h ul li img {
+    width: 20px;
+  }
+}
+
+.footer_footer__E_Uzl {
+  width: 100%;
+  float: left;
+  background: #151522 0 0 no-repeat padding-box;
+}
+
+.footer_container_fluid__ua_tF {
+  background: #a80929 0 0 no-repeat padding-box;
+  padding: 10px 32px;
+  margin-top: 14px;
+  width: 100%;
+  float: left;
+}
+
+.footer_container_fluid__ua_tF ul,
+.footer_footercontent__S97uQ ul {
+  list-style: none;
+  text-align: center;
+  margin: auto;
+  padding: 0;
+}
+
+.footer_footer__E_Uzl .footer_container_fluid__ua_tF img {
+  width: 45px;
+  float: left;
+}
+
+.footer_footercontent__S97uQ ul {
+  float: left;
+}
+
+.footer_container_fluid__ua_tF ul li,
+.footer_footercontent__S97uQ ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 14px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.footer_footercontent__S97uQ ul li {
+  font-size: 13px;
+}
+
+.footer_container_fluid__ua_tF ul li:after,
+.footer_footercontent__S97uQ ul li:after {
+  content: "|";
+  padding: 0 8px;
+}
+
+.footer_container_fluid__ua_tF ul li:last-child:after,
+.footer_footercontent__S97uQ ul li:last-child:after {
+  content: "";
+}
+
+.footer_footer_bottom__PNvWz {
+  background: #262626;
+  width: 100%;
+  float: left;
+  padding: 16px 10px 17px 30px;
+}
+
+.footer_footercontent__S97uQ {
+  width: 45%;
+  float: left;
+}
+
+.footer_desktop_version__sJgui {
+  position: relative;
+  float: left;
+  margin-top: 8px;
+}
+
+.footer_copyright__6AZJn {
+  font-size: 12px;
+  color: #ccc;
+}
+
+.footer_footercontent__S97uQ {
+  border-right: 1px solid #fff;
+}
+
+.footer_footerdata__hxay3 {
+  width: 55%;
+  float: right;
+  display: flex;
+}
+
+.footer_footerdata__hxay3 .footer_footer_social__io7Tx {
+  padding-left: 20px;
+  width: 23%;
+  border-right: 1px solid #fff;
+}
+
+.footer_footerdata__hxay3 p {
+  color: #999;
+  font-weight: 500;
+  font-size: 13px;
+  margin: 0;
+  letter-spacing: 0;
+}
+
+.footer_footer_social__io7Tx a {
+  vertical-align: middle;
+  margin-right: 15px;
+}
+
+.footer_footer_social__io7Tx a img {
+  width: 25px;
+  margin-top: 15px;
+}
+
+.footer_footerdata__hxay3 .footer_download_app__Cywg4 {
+  width: 35%;
+  color: #999;
+  border-right: 1px solid #fff;
+  padding-left: 15px;
+}
+
+.footer_download_app__Cywg4 a {
+  vertical-align: middle;
+  margin-right: 15px;
+}
+
+.footer_download_app__Cywg4 a img {
+  width: 100px;
+  margin-top: 15px;
+}
+
+.footer_footerdata__hxay3 .footer_available__fToJD {
+  color: #999;
+  padding-left: 15px;
+}
+
+.footer_footerdata__hxay3 .footer_available__fToJD h4,
+.footer_footerdata__hxay3 .footer_download_app__Cywg4 h4 {
+  margin: 0;
+}
+
+.footer_available__fToJD img {
+  width: 260px;
+  padding-right: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.footer_aboutUs__crl2J {
+  width: 100%;
+  float: left;
+  background-color: #151522;
+}
+
+.footer_iframe__anvdB {
+  margin-top: 50px;
+  background-color: #151522;
+  padding: 0 0 0 25px;
+}
+
+.footer_container_fluid__ua_tF .footer_active__1OUNW {
+  color: #fce45e;
+}
+
+.footer_disabled__ht4YJ {
+  pointer-events: none;
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .footer_footer_bottom__PNvWz {
+    padding-left: 0;
+  }
+
+  .footer_footercontent__S97uQ {
+    width: 100%;
+    border: none;
+  }
+
+  .footer_footer_social__io7Tx,
+  .footer_footerdata__hxay3 {
+    width: 100%;
+    display: none;
+  }
+
+  .footer_footer_social__io7Tx {
+    width: 100% !important;
+  }
+
+  .footer_copyright__6AZJn {
+    text-align: center;
+  }
+
+  .footer_container_fluid__ua_tF {
+    padding: 10px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 1024px) {
+  .footer_desktop_version__sJgui ul {
+    float: none;
+  }
+}

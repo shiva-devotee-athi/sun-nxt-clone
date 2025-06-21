@@ -1,0 +1,2421 @@
+{
+    "status": "SUCCESS",
+    "code": 200,
+    "tags": null,
+    "facets": null,
+    "title": "Cinema by Decade",
+    "results": [
+        {
+            "startDate": "2020-10-07T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "106170",
+            "endDate": "2030-01-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "2020's Movies",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-10-07T00:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2030-01-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-17T16:07:02.128Z",
+            "generalInfo": {
+                "displayTitle": "Oct 07, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": "deepLink",
+                "seoH5Tag": null,
+                "briefDescription": "Here are the phenomenal movies of the 2020s, a decade packed with a cinematic treat that kept us engaged and entertaining.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "2020's Movies",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "promotion",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Here are the phenomenal movies of the 2020s, a decade packed with a cinematic treat that kept us engaged and entertaining.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "106170",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": "sunnxt://inside/2020Movies?title=2020's&type=movie&publishid=45",
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/106170/1600x1200_2020sMovies_106170_4f92af77-882c-4f76-b09d-791a41f8097e.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/106170/832x623_2020sMovies_106170_4f92af77-882c-4f76-b09d-791a41f8097e.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/106170/452x339_2020sMovies_106170_4f92af77-882c-4f76-b09d-791a41f8097e.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/106170/361x270_2020sMovies_106170_4f92af77-882c-4f76-b09d-791a41f8097e.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/106170/200x150_2020sMovies_106170_4f92af77-882c-4f76-b09d-791a41f8097e.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106170/640x360_2020sMovies_106170_c6c057b2-fb6c-484e-948c-90a92231ca4f.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106170/1920x1080_2020sMovies_106170_c6c057b2-fb6c-484e-948c-90a92231ca4f.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106170/1280x720_2020sMovies_106170_c6c057b2-fb6c-484e-948c-90a92231ca4f.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106170/960x540_2020sMovies_106170_c6c057b2-fb6c-484e-948c-90a92231ca4f.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106170/1000x1500_2020sMovies_106170_a6b09f76-697b-4e82-b423-068cef789735.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106170/500x750_2020sMovies_106170_a6b09f76-697b-4e82-b423-068cef789735.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106170/250x375_2020sMovies_106170_a6b09f76-697b-4e82-b423-068cef789735.png"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/106170/150x150_2020sMovies_106170_eb6098b8-3e80-4d97-a51e-6ad73eb4f9e4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/106170/200x200_2020sMovies_106170_eb6098b8-3e80-4d97-a51e-6ad73eb4f9e4.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/106170/250x250_2020sMovies_106170_eb6098b8-3e80-4d97-a51e-6ad73eb4f9e4.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/106170/300x300_2020sMovies_106170_eb6098b8-3e80-4d97-a51e-6ad73eb4f9e4.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/106170/1000x1000_2020sMovies_106170_eb6098b8-3e80-4d97-a51e-6ad73eb4f9e4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106170/640x360_2020sMovies_106170_28d54688-7827-4ab1-ae97-049f8958ba0b.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106170/1920x1080_2020sMovies_106170_28d54688-7827-4ab1-ae97-049f8958ba0b.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106170/1280x720_2020sMovies_106170_28d54688-7827-4ab1-ae97-049f8958ba0b.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106170/960x540_2020sMovies_106170_28d54688-7827-4ab1-ae97-049f8958ba0b.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106170/1000x1500_2020sMovies_106170_a9344008-92a8-48a2-a3f4-6945d8b5b452.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106170/500x750_2020sMovies_106170_a9344008-92a8-48a2-a3f4-6945d8b5b452.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106170/250x375_2020sMovies_106170_a9344008-92a8-48a2-a3f4-6945d8b5b452.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106170/2020sMovies_106170_b18d88d4-011b-40bb-969e-be3f255ca8d2.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106170/2020sMovies_106170_b18d88d4-011b-40bb-969e-be3f255ca8d2.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106170/2020sMovies_106170_b18d88d4-011b-40bb-969e-be3f255ca8d2.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-10-07T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d520b8e4b0e544346e2c34",
+                        "name": "Action"
+                    }
+                ],
+                "actionType": "deepLink",
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 20000.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "kannada",
+                    "malayalam",
+                    "tamil",
+                    "telugu"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": "sunnxt://inside/2020Movies?title=2020's&type=movie&publishid=45",
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2020-10-07T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "106171",
+            "endDate": "2030-01-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "2010's Movies",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-10-07T00:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2030-01-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-17T16:06:56.826Z",
+            "generalInfo": {
+                "displayTitle": "Oct 07, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": "deepLink",
+                "seoH5Tag": null,
+                "briefDescription": "These are the incredible movies of the 2010s with a high dose of excitement, drama, action, humour, and terror.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "2010's Movies",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "promotion",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "These are the incredible movies of the 2010s with a high dose of excitement, drama, action, humour, and terror.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "106171",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": "sunnxt://inside/2010Movies?title=2010's&type=movie&publishid=45",
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/106171/1600x1200_2010sMovies_106171_7ce8b830-73d1-4465-b5c8-d0f31486fad8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/106171/832x623_2010sMovies_106171_7ce8b830-73d1-4465-b5c8-d0f31486fad8.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/106171/452x339_2010sMovies_106171_7ce8b830-73d1-4465-b5c8-d0f31486fad8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/106171/361x270_2010sMovies_106171_7ce8b830-73d1-4465-b5c8-d0f31486fad8.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/106171/200x150_2010sMovies_106171_7ce8b830-73d1-4465-b5c8-d0f31486fad8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106171/640x360_2010sMovies_106171_65a65689-8f2e-4f9a-a2b2-a8d80d2a3c07.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106171/1920x1080_2010sMovies_106171_65a65689-8f2e-4f9a-a2b2-a8d80d2a3c07.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106171/1280x720_2010sMovies_106171_65a65689-8f2e-4f9a-a2b2-a8d80d2a3c07.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106171/960x540_2010sMovies_106171_65a65689-8f2e-4f9a-a2b2-a8d80d2a3c07.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106171/1000x1500_2010sMovies_106171_bade7d97-1780-47e2-ae61-27baac72c88c.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106171/500x750_2010sMovies_106171_bade7d97-1780-47e2-ae61-27baac72c88c.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106171/250x375_2010sMovies_106171_bade7d97-1780-47e2-ae61-27baac72c88c.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/106171/150x150_2010sMovies_106171_2f9c6798-af11-49f8-bae1-5491694b00d0.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/106171/200x200_2010sMovies_106171_2f9c6798-af11-49f8-bae1-5491694b00d0.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/106171/250x250_2010sMovies_106171_2f9c6798-af11-49f8-bae1-5491694b00d0.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/106171/300x300_2010sMovies_106171_2f9c6798-af11-49f8-bae1-5491694b00d0.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/106171/1000x1000_2010sMovies_106171_2f9c6798-af11-49f8-bae1-5491694b00d0.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106171/640x360_2010sMovies_106171_cb4f7ab9-a278-46a6-b0d7-e253b1f42751.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106171/1920x1080_2010sMovies_106171_cb4f7ab9-a278-46a6-b0d7-e253b1f42751.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106171/1280x720_2010sMovies_106171_cb4f7ab9-a278-46a6-b0d7-e253b1f42751.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106171/960x540_2010sMovies_106171_cb4f7ab9-a278-46a6-b0d7-e253b1f42751.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106171/1000x1500_2010sMovies_106171_3a3cb4fd-c8ca-4038-b79d-60e7fc6e2821.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106171/500x750_2010sMovies_106171_3a3cb4fd-c8ca-4038-b79d-60e7fc6e2821.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106171/250x375_2010sMovies_106171_3a3cb4fd-c8ca-4038-b79d-60e7fc6e2821.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106171/2010sMovies_106171_91f96b28-66f9-49dc-a28b-4e168c1395e3.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106171/2010sMovies_106171_91f96b28-66f9-49dc-a28b-4e168c1395e3.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106171/2010sMovies_106171_91f96b28-66f9-49dc-a28b-4e168c1395e3.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-10-07T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d520b8e4b0e544346e2c34",
+                        "name": "Action"
+                    }
+                ],
+                "actionType": "deepLink",
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 10000.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "kannada",
+                    "malayalam",
+                    "tamil",
+                    "telugu"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": "sunnxt://inside/2010Movies?title=2010's&type=movie&publishid=45",
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2020-10-07T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "106172",
+            "endDate": "2030-01-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "2000's Movies",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-10-07T00:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2030-01-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-17T16:06:51.373Z",
+            "generalInfo": {
+                "displayTitle": "Oct 07, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": "deepLink",
+                "seoH5Tag": null,
+                "briefDescription": "A selection of dynamic movies that dominated the decade, 2000s. The kind of movies you still watch over and over again.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "2000's Movies",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "promotion",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "A selection of dynamic movies that dominated the decade, 2000s. The kind of movies you still watch over and over again.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "106172",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": "sunnxt://inside/2000Movies?title=2000's&type=movie&publishid=45",
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/106172/1600x1200_2000sMovies_106172_d9c63107-e343-414a-bb72-99eb81a252e8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/106172/832x623_2000sMovies_106172_d9c63107-e343-414a-bb72-99eb81a252e8.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/106172/452x339_2000sMovies_106172_d9c63107-e343-414a-bb72-99eb81a252e8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/106172/361x270_2000sMovies_106172_d9c63107-e343-414a-bb72-99eb81a252e8.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/106172/200x150_2000sMovies_106172_d9c63107-e343-414a-bb72-99eb81a252e8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106172/640x360_2000sMovies_106172_44570b71-141a-48a6-a491-13423f9f8183.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106172/1920x1080_2000sMovies_106172_44570b71-141a-48a6-a491-13423f9f8183.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106172/1280x720_2000sMovies_106172_44570b71-141a-48a6-a491-13423f9f8183.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106172/960x540_2000sMovies_106172_44570b71-141a-48a6-a491-13423f9f8183.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106172/1000x1500_2000sMovies_106172_8140a315-c424-4c98-9414-51cad5ea72ee.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106172/500x750_2000sMovies_106172_8140a315-c424-4c98-9414-51cad5ea72ee.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106172/250x375_2000sMovies_106172_8140a315-c424-4c98-9414-51cad5ea72ee.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/106172/150x150_2000sMovies_106172_ad179a41-1041-4dd3-ba7d-27bbba1201ef.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/106172/200x200_2000sMovies_106172_ad179a41-1041-4dd3-ba7d-27bbba1201ef.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/106172/250x250_2000sMovies_106172_ad179a41-1041-4dd3-ba7d-27bbba1201ef.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/106172/300x300_2000sMovies_106172_ad179a41-1041-4dd3-ba7d-27bbba1201ef.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/106172/1000x1000_2000sMovies_106172_ad179a41-1041-4dd3-ba7d-27bbba1201ef.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106172/640x360_2000sMovies_106172_c7d29615-a3da-47ca-baf7-eb39d6101ac6.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106172/1920x1080_2000sMovies_106172_c7d29615-a3da-47ca-baf7-eb39d6101ac6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106172/1280x720_2000sMovies_106172_c7d29615-a3da-47ca-baf7-eb39d6101ac6.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106172/960x540_2000sMovies_106172_c7d29615-a3da-47ca-baf7-eb39d6101ac6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106172/1000x1500_2000sMovies_106172_45799376-4f5e-4acd-b670-76ef10ed6cf3.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106172/500x750_2000sMovies_106172_45799376-4f5e-4acd-b670-76ef10ed6cf3.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106172/250x375_2000sMovies_106172_45799376-4f5e-4acd-b670-76ef10ed6cf3.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106172/2000sMovies_106172_54b3db69-33bc-40b9-b385-0a824c298bcd.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106172/2000sMovies_106172_54b3db69-33bc-40b9-b385-0a824c298bcd.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106172/2000sMovies_106172_54b3db69-33bc-40b9-b385-0a824c298bcd.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-10-07T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d520b8e4b0e544346e2c34",
+                        "name": "Action"
+                    }
+                ],
+                "actionType": "deepLink",
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 9000.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "kannada",
+                    "malayalam",
+                    "tamil",
+                    "telugu"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": "sunnxt://inside/2000Movies?title=2000's&type=movie&publishid=45",
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2020-10-07T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "106173",
+            "endDate": "2030-01-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "1990's Movies",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-10-07T00:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2030-01-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-17T16:06:45.888Z",
+            "generalInfo": {
+                "displayTitle": "Oct 07, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": "deepLink",
+                "seoH5Tag": null,
+                "briefDescription": "Take a stroll down memory lane and enjoy a feel-good nostalgia with these iconic movies from the 1990s.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "1990's Movies",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "promotion",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Take a stroll down memory lane and enjoy a feel-good nostalgia with these iconic movies from the 1990s.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "106173",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": "sunnxt://inside/1990Movies?title=1990's&type=movie&publishid=45",
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/106173/1600x1200_1990sMovies_106173_a4b4868f-90d2-46f4-9cce-4cd313a5ce9d.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/106173/832x623_1990sMovies_106173_a4b4868f-90d2-46f4-9cce-4cd313a5ce9d.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/106173/452x339_1990sMovies_106173_a4b4868f-90d2-46f4-9cce-4cd313a5ce9d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/106173/361x270_1990sMovies_106173_a4b4868f-90d2-46f4-9cce-4cd313a5ce9d.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/106173/200x150_1990sMovies_106173_a4b4868f-90d2-46f4-9cce-4cd313a5ce9d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106173/640x360_1990sMovies_106173_85817648-279f-4372-b7a5-9fb1129517c6.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106173/1920x1080_1990sMovies_106173_85817648-279f-4372-b7a5-9fb1129517c6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106173/1280x720_1990sMovies_106173_85817648-279f-4372-b7a5-9fb1129517c6.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106173/960x540_1990sMovies_106173_85817648-279f-4372-b7a5-9fb1129517c6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106173/1000x1500_1990sMovies_106173_c6c8ba2d-e058-4359-89c0-edeed6aa9206.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106173/500x750_1990sMovies_106173_c6c8ba2d-e058-4359-89c0-edeed6aa9206.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106173/250x375_1990sMovies_106173_c6c8ba2d-e058-4359-89c0-edeed6aa9206.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/106173/150x150_1990sMovies_106173_54e4b8f0-b11b-4bc6-81aa-c46be22f989f.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/106173/200x200_1990sMovies_106173_54e4b8f0-b11b-4bc6-81aa-c46be22f989f.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/106173/250x250_1990sMovies_106173_54e4b8f0-b11b-4bc6-81aa-c46be22f989f.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/106173/300x300_1990sMovies_106173_54e4b8f0-b11b-4bc6-81aa-c46be22f989f.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/106173/1000x1000_1990sMovies_106173_54e4b8f0-b11b-4bc6-81aa-c46be22f989f.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106173/640x360_1990sMovies_106173_f8379542-00d3-40cf-9342-c78756057782.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106173/1920x1080_1990sMovies_106173_f8379542-00d3-40cf-9342-c78756057782.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106173/1280x720_1990sMovies_106173_f8379542-00d3-40cf-9342-c78756057782.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106173/960x540_1990sMovies_106173_f8379542-00d3-40cf-9342-c78756057782.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106173/1000x1500_1990sMovies_106173_87f80991-ec66-4f54-8b42-9742c44e47c1.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106173/500x750_1990sMovies_106173_87f80991-ec66-4f54-8b42-9742c44e47c1.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106173/250x375_1990sMovies_106173_87f80991-ec66-4f54-8b42-9742c44e47c1.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106173/1990sMovies_106173_d06974c7-9ef3-4eee-acbc-7d56a9b01de9.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106173/1990sMovies_106173_d06974c7-9ef3-4eee-acbc-7d56a9b01de9.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106173/1990sMovies_106173_d06974c7-9ef3-4eee-acbc-7d56a9b01de9.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-10-07T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d520b8e4b0e544346e2c34",
+                        "name": "Action"
+                    }
+                ],
+                "actionType": "deepLink",
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 997.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil",
+                    "telugu",
+                    "malayalam",
+                    "kannada"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": "sunnxt://inside/1990Movies?title=1990's&type=movie&publishid=45",
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2020-10-07T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "106174",
+            "endDate": "2030-01-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "1980's Movies",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-10-07T00:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2030-01-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-17T16:06:40.449Z",
+            "generalInfo": {
+                "displayTitle": "Oct 07, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": "deepLink",
+                "seoH5Tag": null,
+                "briefDescription": "Go retro, with the must-watch movies of the 1980s, the most beloved decade for entertainment.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "1980's Movies",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "promotion",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Go retro, with the must-watch movies of the 1980s, the most beloved decade for entertainment.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "106174",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": "sunnxt://inside/1980Movies?title=1980's&type=movie&publishid=45",
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/106174/1600x1200_1980sMovies_106174_b8f83b4c-0bda-44b5-9de1-1a437ffe64bf.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/106174/832x623_1980sMovies_106174_b8f83b4c-0bda-44b5-9de1-1a437ffe64bf.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/106174/452x339_1980sMovies_106174_b8f83b4c-0bda-44b5-9de1-1a437ffe64bf.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/106174/361x270_1980sMovies_106174_b8f83b4c-0bda-44b5-9de1-1a437ffe64bf.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/106174/200x150_1980sMovies_106174_b8f83b4c-0bda-44b5-9de1-1a437ffe64bf.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106174/640x360_1980sMovies_106174_99da2078-bde0-421a-8021-cab3c874a387.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106174/1920x1080_1980sMovies_106174_99da2078-bde0-421a-8021-cab3c874a387.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106174/1280x720_1980sMovies_106174_99da2078-bde0-421a-8021-cab3c874a387.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106174/960x540_1980sMovies_106174_99da2078-bde0-421a-8021-cab3c874a387.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106174/1000x1500_1980sMovies_106174_fd806563-980d-410f-bad0-f46b0222735e.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106174/500x750_1980sMovies_106174_fd806563-980d-410f-bad0-f46b0222735e.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106174/250x375_1980sMovies_106174_fd806563-980d-410f-bad0-f46b0222735e.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/106174/150x150_1980sMovies_106174_1669c9c3-b100-454e-97cd-b5de61e724ce.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/106174/200x200_1980sMovies_106174_1669c9c3-b100-454e-97cd-b5de61e724ce.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/106174/250x250_1980sMovies_106174_1669c9c3-b100-454e-97cd-b5de61e724ce.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/106174/300x300_1980sMovies_106174_1669c9c3-b100-454e-97cd-b5de61e724ce.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/106174/1000x1000_1980sMovies_106174_1669c9c3-b100-454e-97cd-b5de61e724ce.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106174/640x360_1980sMovies_106174_43dd27f8-7697-4a02-acee-4a4f91a14cc7.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106174/1920x1080_1980sMovies_106174_43dd27f8-7697-4a02-acee-4a4f91a14cc7.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106174/1280x720_1980sMovies_106174_43dd27f8-7697-4a02-acee-4a4f91a14cc7.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106174/960x540_1980sMovies_106174_43dd27f8-7697-4a02-acee-4a4f91a14cc7.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106174/1000x1500_1980sMovies_106174_df0c9a2d-7b8d-4248-9be8-7c80148a1f0f.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106174/500x750_1980sMovies_106174_df0c9a2d-7b8d-4248-9be8-7c80148a1f0f.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106174/250x375_1980sMovies_106174_df0c9a2d-7b8d-4248-9be8-7c80148a1f0f.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106174/1980sMovies_106174_1199c26a-6e6b-46c6-a46f-a57cea43d2fe.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106174/1980sMovies_106174_1199c26a-6e6b-46c6-a46f-a57cea43d2fe.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106174/1980sMovies_106174_1199c26a-6e6b-46c6-a46f-a57cea43d2fe.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-10-07T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d520b8e4b0e544346e2c34",
+                        "name": "Action"
+                    }
+                ],
+                "actionType": "deepLink",
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 996.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil",
+                    "telugu",
+                    "malayalam",
+                    "kannada"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": "sunnxt://inside/1980Movies?title=1980's&type=movie&publishid=45",
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2020-10-07T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "106175",
+            "endDate": "2030-01-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "1970's Movies",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-10-07T00:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2030-01-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-17T16:06:34.955Z",
+            "generalInfo": {
+                "displayTitle": "Oct 07, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": "deepLink",
+                "seoH5Tag": null,
+                "briefDescription": "Binge on these brilliant movies from the 1970s, the golden decade in the history of filmmaking.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "1970's Movies",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "promotion",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Binge on these brilliant movies from the 1970s, the golden decade in the history of filmmaking.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "106175",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": "sunnxt://inside/1970Movies?title=1970's&type=movie&publishid=45",
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/106175/1600x1200_1970sMovies_106175_40a034e2-8881-451b-8c6c-bb857be74133.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/106175/832x623_1970sMovies_106175_40a034e2-8881-451b-8c6c-bb857be74133.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/106175/452x339_1970sMovies_106175_40a034e2-8881-451b-8c6c-bb857be74133.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/106175/361x270_1970sMovies_106175_40a034e2-8881-451b-8c6c-bb857be74133.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/106175/200x150_1970sMovies_106175_40a034e2-8881-451b-8c6c-bb857be74133.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106175/640x360_1970sMovies_106175_9f245a72-930d-43eb-be2d-34521d36e438.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106175/1920x1080_1970sMovies_106175_9f245a72-930d-43eb-be2d-34521d36e438.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106175/1280x720_1970sMovies_106175_9f245a72-930d-43eb-be2d-34521d36e438.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106175/960x540_1970sMovies_106175_9f245a72-930d-43eb-be2d-34521d36e438.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106175/1000x1500_1970sMovies_106175_d2274b1e-6033-4f3e-8d69-91875619b910.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106175/500x750_1970sMovies_106175_d2274b1e-6033-4f3e-8d69-91875619b910.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106175/250x375_1970sMovies_106175_d2274b1e-6033-4f3e-8d69-91875619b910.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/106175/150x150_1970sMovies_106175_4325a9db-da77-4936-9a6b-c502d93fb79a.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/106175/200x200_1970sMovies_106175_4325a9db-da77-4936-9a6b-c502d93fb79a.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/106175/250x250_1970sMovies_106175_4325a9db-da77-4936-9a6b-c502d93fb79a.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/106175/300x300_1970sMovies_106175_4325a9db-da77-4936-9a6b-c502d93fb79a.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/106175/1000x1000_1970sMovies_106175_4325a9db-da77-4936-9a6b-c502d93fb79a.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106175/640x360_1970sMovies_106175_0f15e016-6a17-43d8-980a-8bd979267632.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106175/1920x1080_1970sMovies_106175_0f15e016-6a17-43d8-980a-8bd979267632.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106175/1280x720_1970sMovies_106175_0f15e016-6a17-43d8-980a-8bd979267632.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106175/960x540_1970sMovies_106175_0f15e016-6a17-43d8-980a-8bd979267632.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106175/1000x1500_1970sMovies_106175_e69a3a7f-d4b8-4441-94ca-cf3492280643.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106175/500x750_1970sMovies_106175_e69a3a7f-d4b8-4441-94ca-cf3492280643.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106175/250x375_1970sMovies_106175_e69a3a7f-d4b8-4441-94ca-cf3492280643.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106175/1970sMovies_106175_056035e6-272e-490f-9003-21eeed370b5f.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106175/1970sMovies_106175_056035e6-272e-490f-9003-21eeed370b5f.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106175/1970sMovies_106175_056035e6-272e-490f-9003-21eeed370b5f.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-10-07T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d520b8e4b0e544346e2c34",
+                        "name": "Action"
+                    }
+                ],
+                "actionType": "deepLink",
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 995.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil",
+                    "telugu",
+                    "malayalam",
+                    "kannada"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": "sunnxt://inside/1970Movies?title=1970's&type=movie&publishid=45",
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2020-10-07T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "106176",
+            "endDate": "2030-01-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "1960's Movies",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-10-07T00:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2030-01-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-17T16:06:29.457Z",
+            "generalInfo": {
+                "displayTitle": "Oct 07, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": "deepLink",
+                "seoH5Tag": null,
+                "briefDescription": "Dive into the glorious past with these best movies of the 1960s that have stood the test of time.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "1960's Movies",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "promotion",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Dive into the glorious past with these best movies of the 1960s that have stood the test of time.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "106176",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": "sunnxt://inside/1960Movies?title=1960's&type=movie&publishid=45",
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/106176/1600x1200_1960sMovies_106176_6d9c13d3-fe44-4ec1-a376-56f86c802160.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/106176/832x623_1960sMovies_106176_6d9c13d3-fe44-4ec1-a376-56f86c802160.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/106176/452x339_1960sMovies_106176_6d9c13d3-fe44-4ec1-a376-56f86c802160.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/106176/361x270_1960sMovies_106176_6d9c13d3-fe44-4ec1-a376-56f86c802160.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/106176/200x150_1960sMovies_106176_6d9c13d3-fe44-4ec1-a376-56f86c802160.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106176/640x360_1960sMovies_106176_634a7fc4-2c3b-4915-a861-2b0d7ecb8b63.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106176/1920x1080_1960sMovies_106176_634a7fc4-2c3b-4915-a861-2b0d7ecb8b63.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106176/1280x720_1960sMovies_106176_634a7fc4-2c3b-4915-a861-2b0d7ecb8b63.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106176/960x540_1960sMovies_106176_634a7fc4-2c3b-4915-a861-2b0d7ecb8b63.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106176/1000x1500_1960sMovies_106176_7a6434b3-e6bb-436b-a24e-efa47805bfa7.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106176/500x750_1960sMovies_106176_7a6434b3-e6bb-436b-a24e-efa47805bfa7.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106176/250x375_1960sMovies_106176_7a6434b3-e6bb-436b-a24e-efa47805bfa7.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/106176/150x150_1960sMovies_106176_dcb17055-e6b8-45fa-b56c-7e643716eb19.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/106176/200x200_1960sMovies_106176_dcb17055-e6b8-45fa-b56c-7e643716eb19.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/106176/250x250_1960sMovies_106176_dcb17055-e6b8-45fa-b56c-7e643716eb19.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/106176/300x300_1960sMovies_106176_dcb17055-e6b8-45fa-b56c-7e643716eb19.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/106176/1000x1000_1960sMovies_106176_dcb17055-e6b8-45fa-b56c-7e643716eb19.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106176/640x360_1960sMovies_106176_bce4783c-f544-428c-be31-8ce9831454a8.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106176/1920x1080_1960sMovies_106176_bce4783c-f544-428c-be31-8ce9831454a8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106176/1280x720_1960sMovies_106176_bce4783c-f544-428c-be31-8ce9831454a8.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106176/960x540_1960sMovies_106176_bce4783c-f544-428c-be31-8ce9831454a8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106176/1000x1500_1960sMovies_106176_94569495-60b9-4c5d-82d9-4f5ace2adb66.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106176/500x750_1960sMovies_106176_94569495-60b9-4c5d-82d9-4f5ace2adb66.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106176/250x375_1960sMovies_106176_94569495-60b9-4c5d-82d9-4f5ace2adb66.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106176/1960sMovies_106176_b36775d0-df57-4d4a-86e6-f476d21dec91.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106176/1960sMovies_106176_b36775d0-df57-4d4a-86e6-f476d21dec91.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106176/1960sMovies_106176_b36775d0-df57-4d4a-86e6-f476d21dec91.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-10-07T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d520b8e4b0e544346e2c34",
+                        "name": "Action"
+                    }
+                ],
+                "actionType": "deepLink",
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 994.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil",
+                    "telugu",
+                    "malayalam",
+                    "kannada"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": "sunnxt://inside/1960Movies?title=1960's&type=movie&publishid=45",
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2020-10-07T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "106177",
+            "endDate": "2030-01-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "1950's Movies",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-10-07T00:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2030-01-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-17T16:06:23.997Z",
+            "generalInfo": {
+                "displayTitle": "Oct 07, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": "deepLink",
+                "seoH5Tag": null,
+                "briefDescription": "Get ready for these classic movies, the timeless treasures from the 1950s that everyone should see at least once",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "1950's Movies",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "promotion",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Get ready for these classic movies, the timeless treasures from the 1950s that everyone should see at least once",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "106177",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": "sunnxt://inside/1950Movies?title=1950's&type=movie&publishid=45",
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/106177/1600x1200_1950sMovies_106177_851d048f-f6d3-4f24-8d9e-4fce4f498312.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/106177/832x623_1950sMovies_106177_851d048f-f6d3-4f24-8d9e-4fce4f498312.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/106177/452x339_1950sMovies_106177_851d048f-f6d3-4f24-8d9e-4fce4f498312.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/106177/361x270_1950sMovies_106177_851d048f-f6d3-4f24-8d9e-4fce4f498312.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/106177/200x150_1950sMovies_106177_851d048f-f6d3-4f24-8d9e-4fce4f498312.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106177/640x360_1950sMovies_106177_78854f7d-5755-499f-8196-bf5aaf8be1b3.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106177/1920x1080_1950sMovies_106177_78854f7d-5755-499f-8196-bf5aaf8be1b3.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106177/1280x720_1950sMovies_106177_78854f7d-5755-499f-8196-bf5aaf8be1b3.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106177/960x540_1950sMovies_106177_78854f7d-5755-499f-8196-bf5aaf8be1b3.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106177/1000x1500_1950sMovies_106177_9929d3e9-2efd-40e9-afed-5667738f9f0a.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106177/500x750_1950sMovies_106177_9929d3e9-2efd-40e9-afed-5667738f9f0a.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106177/250x375_1950sMovies_106177_9929d3e9-2efd-40e9-afed-5667738f9f0a.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/106177/150x150_1950sMovies_106177_79040b33-0091-43d4-84fd-5565b37aa4b2.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/106177/200x200_1950sMovies_106177_79040b33-0091-43d4-84fd-5565b37aa4b2.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/106177/250x250_1950sMovies_106177_79040b33-0091-43d4-84fd-5565b37aa4b2.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/106177/300x300_1950sMovies_106177_79040b33-0091-43d4-84fd-5565b37aa4b2.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/106177/1000x1000_1950sMovies_106177_79040b33-0091-43d4-84fd-5565b37aa4b2.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/106177/640x360_1950sMovies_106177_6ff907a2-7840-4016-b298-5447eb049302.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/106177/1920x1080_1950sMovies_106177_6ff907a2-7840-4016-b298-5447eb049302.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/106177/1280x720_1950sMovies_106177_6ff907a2-7840-4016-b298-5447eb049302.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/106177/960x540_1950sMovies_106177_6ff907a2-7840-4016-b298-5447eb049302.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/106177/1000x1500_1950sMovies_106177_17f3743f-8232-4965-a165-2fd320059e40.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/106177/500x750_1950sMovies_106177_17f3743f-8232-4965-a165-2fd320059e40.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/106177/250x375_1950sMovies_106177_17f3743f-8232-4965-a165-2fd320059e40.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106177/1950sMovies_106177_f31ef19f-cbdf-4ac6-9c7a-daec01b05f2d.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106177/1950sMovies_106177_f31ef19f-cbdf-4ac6-9c7a-daec01b05f2d.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/106177/1950sMovies_106177_f31ef19f-cbdf-4ac6-9c7a-daec01b05f2d.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-10-07T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d520b8e4b0e544346e2c34",
+                        "name": "Action"
+                    }
+                ],
+                "actionType": "deepLink",
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 993.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "kannada",
+                    "malayalam",
+                    "tamil",
+                    "telugu"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": "sunnxt://inside/1950Movies?title=1950's&type=movie&publishid=45",
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        }
+    ],
+    "request_id": "0fbfd182-f142-4153-9401-75d6464e81bb",
+    "showAll": "no",
+    "seoDescription": null,
+    "message": "OK"
+}

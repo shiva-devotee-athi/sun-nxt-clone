@@ -1,0 +1,2251 @@
+{
+    "status": "SUCCESS",
+    "code": 200,
+    "tags": null,
+    "facets": null,
+    "title": "Fresh Episodes",
+    "results": [
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_179678",
+            "_id": "225137",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Tujhi Majhi Jamali Jodi - Jun 18, 2025",
+            "globalServiceName": "Tujhi Majhi Jamali Jodi",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T22:38:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T17:30:04.211Z",
+            "generalInfo": {
+                "displayTitle": "E512 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Bold and compassionate Sai, finds happiness in making others happy. Circumstances lead to her tying the knot with a good friend & love of her life, Devansh. With conspiracies within family vying to break them apart, will true love prevail?",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Tujhi Majhi Jamali Jodi - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Bold and compassionate Sai, finds happiness in making others happy. Circumstances lead to her tying the knot with a good friend & love of her life, Devansh. With conspiracies within family vying to break them apart, will true love prevail?",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "225137",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/225137/1600x1200_TujhiMajhiJamaliJodiJun182025_225137_787fdd37-d820-4213-a461-303ecd2c6098.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/225137/832x623_TujhiMajhiJamaliJodiJun182025_225137_787fdd37-d820-4213-a461-303ecd2c6098.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/225137/452x339_TujhiMajhiJamaliJodiJun182025_225137_787fdd37-d820-4213-a461-303ecd2c6098.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/225137/361x270_TujhiMajhiJamaliJodiJun182025_225137_787fdd37-d820-4213-a461-303ecd2c6098.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/225137/200x150_TujhiMajhiJamaliJodiJun182025_225137_787fdd37-d820-4213-a461-303ecd2c6098.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/225137/1000x1500_TujhiMajhiJamaliJodiJun182025_225137_428d6a59-bdbe-44b3-a9cc-7247b7d9ab02.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/225137/500x750_TujhiMajhiJamaliJodiJun182025_225137_428d6a59-bdbe-44b3-a9cc-7247b7d9ab02.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/225137/250x375_TujhiMajhiJamaliJodiJun182025_225137_428d6a59-bdbe-44b3-a9cc-7247b7d9ab02.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/225137/640x360_TujhiMajhiJamaliJodiJun182025_225137_82c4fe9c-a4ab-4fa8-9609-e4e47abc5004.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/225137/1920x1080_TujhiMajhiJamaliJodiJun182025_225137_82c4fe9c-a4ab-4fa8-9609-e4e47abc5004.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/225137/1280x720_TujhiMajhiJamaliJodiJun182025_225137_82c4fe9c-a4ab-4fa8-9609-e4e47abc5004.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/225137/960x540_TujhiMajhiJamaliJodiJun182025_225137_82c4fe9c-a4ab-4fa8-9609-e4e47abc5004.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T22:38:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 512.0,
+                "serialNo": "512",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "marathi"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_190040",
+            "_id": "224955",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Malli - Jun 18, 2025",
+            "globalServiceName": "Malli Tamil",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T22:30:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T17:30:04.680Z",
+            "generalInfo": {
+                "displayTitle": "E411 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Things take a momentous shift when a bold & loving village girl, Malli, crosses paths with a doting father and his 6-year-old daughter who yearns for a mother's love. Join the family's journey through the nuances of love, affection & parenthood.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Malli - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Things take a momentous shift when a bold & loving village girl, Malli, crosses paths with a doting father and his 6-year-old daughter who yearns for a mother's love. Join the family's journey through the nuances of love, affection & parenthood.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "224955",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/224955/1600x1200_MalliJun182025_224955_75faefe3-c1d0-4f87-b2bf-7c9fa9a53765.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/224955/832x623_MalliJun182025_224955_75faefe3-c1d0-4f87-b2bf-7c9fa9a53765.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/224955/452x339_MalliJun182025_224955_75faefe3-c1d0-4f87-b2bf-7c9fa9a53765.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/224955/361x270_MalliJun182025_224955_75faefe3-c1d0-4f87-b2bf-7c9fa9a53765.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/224955/200x150_MalliJun182025_224955_75faefe3-c1d0-4f87-b2bf-7c9fa9a53765.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/224955/1000x1500_MalliJun182025_224955_92da29ac-e261-4544-853d-0ed0c5ac5f56.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/224955/500x750_MalliJun182025_224955_92da29ac-e261-4544-853d-0ed0c5ac5f56.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/224955/250x375_MalliJun182025_224955_92da29ac-e261-4544-853d-0ed0c5ac5f56.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/224955/640x360_MalliJun182025_224955_a769f11f-4bef-4929-a720-f5f46f95e471.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/224955/1920x1080_MalliJun182025_224955_a769f11f-4bef-4929-a720-f5f46f95e471.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/224955/1280x720_MalliJun182025_224955_a769f11f-4bef-4929-a720-f5f46f95e471.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/224955/960x540_MalliJun182025_224955_a769f11f-4bef-4929-a720-f5f46f95e471.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T22:30:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    },
+                    {
+                        "id": "59cd364fe4b02d8476358636",
+                        "name": "Family Drama"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 411.0,
+                "serialNo": "411",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_76561",
+            "_id": "225082",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sevanthi - Jun 18, 2025",
+            "globalServiceName": "Sevanthi",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T22:30:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T17:25:03.327Z",
+            "generalInfo": {
+                "displayTitle": "E1895 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "By destiny, Sevanthi gets married to Arjun & becomes a part of her long-lost family without her knowledge. But Anu steals her identity as Chandrakanth\u2019s daughter & deceives the family. Can Sevanthi reclaim her true identity amidst love & betrayal?",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sevanthi - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "By destiny, Sevanthi gets married to Arjun & becomes a part of her long-lost family without her knowledge. But Anu steals her identity as Chandrakanth\u2019s daughter & deceives the family. Can Sevanthi reclaim her true identity amidst love & betrayal?",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "225082",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/225082/1600x1200_SevanthiJun182025_225082_41714126-74de-4854-bcbe-ed15a1817cc4.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/225082/832x623_SevanthiJun182025_225082_41714126-74de-4854-bcbe-ed15a1817cc4.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/225082/452x339_SevanthiJun182025_225082_41714126-74de-4854-bcbe-ed15a1817cc4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/225082/361x270_SevanthiJun182025_225082_41714126-74de-4854-bcbe-ed15a1817cc4.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/225082/200x150_SevanthiJun182025_225082_41714126-74de-4854-bcbe-ed15a1817cc4.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/225082/1000x1500_SevanthiJun182025_225082_18b7422c-7dff-49b0-b79d-4381fd496eff.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/225082/500x750_SevanthiJun182025_225082_18b7422c-7dff-49b0-b79d-4381fd496eff.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/225082/250x375_SevanthiJun182025_225082_18b7422c-7dff-49b0-b79d-4381fd496eff.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/225082/640x360_SevanthiJun182025_225082_0e6e794b-b570-4540-b475-a4c21ac37d5a.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/225082/1920x1080_SevanthiJun182025_225082_0e6e794b-b570-4540-b475-a4c21ac37d5a.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/225082/1280x720_SevanthiJun182025_225082_0e6e794b-b570-4540-b475-a4c21ac37d5a.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/225082/960x540_SevanthiJun182025_225082_0e6e794b-b570-4540-b475-a4c21ac37d5a.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T22:30:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 1895.0,
+                "serialNo": "1895",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "kannada"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_177011",
+            "_id": "225136",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Navi Janmen Me - Jun 18, 2025",
+            "globalServiceName": "Navi Janmen Me",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T22:06:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T17:00:08.925Z",
+            "generalInfo": {
+                "displayTitle": "E549 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Born into a humble & rustic background troubled by familial & financial concerns, Swanandi takes it upon herself to leave home & fearlessly pursue a better life for her family. Watch her bravely face the odds of life with unwavering spirit.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Navi Janmen Me - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Born into a humble & rustic background troubled by familial & financial concerns, Swanandi takes it upon herself to leave home & fearlessly pursue a better life for her family. Watch her bravely face the odds of life with unwavering spirit.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "225136",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/225136/1600x1200_NaviJanmenMeJun182025_225136_b8f1d65c-7dc8-4e89-9296-ea47fc5768e6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/225136/832x623_NaviJanmenMeJun182025_225136_b8f1d65c-7dc8-4e89-9296-ea47fc5768e6.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/225136/452x339_NaviJanmenMeJun182025_225136_b8f1d65c-7dc8-4e89-9296-ea47fc5768e6.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/225136/361x270_NaviJanmenMeJun182025_225136_b8f1d65c-7dc8-4e89-9296-ea47fc5768e6.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/225136/200x150_NaviJanmenMeJun182025_225136_b8f1d65c-7dc8-4e89-9296-ea47fc5768e6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/225136/1000x1500_NaviJanmenMeJun182025_225136_42b416ff-1020-4c6e-bed7-6831e4e65cab.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/225136/500x750_NaviJanmenMeJun182025_225136_42b416ff-1020-4c6e-bed7-6831e4e65cab.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/225136/250x375_NaviJanmenMeJun182025_225136_42b416ff-1020-4c6e-bed7-6831e4e65cab.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/225136/640x360_NaviJanmenMeJun182025_225136_0b4e62d0-225f-4a69-8d92-034a9350e348.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/225136/1920x1080_NaviJanmenMeJun182025_225136_0b4e62d0-225f-4a69-8d92-034a9350e348.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/225136/1280x720_NaviJanmenMeJun182025_225136_0b4e62d0-225f-4a69-8d92-034a9350e348.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/225136/960x540_NaviJanmenMeJun182025_225136_0b4e62d0-225f-4a69-8d92-034a9350e348.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T22:06:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 549.0,
+                "serialNo": "549",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "marathi"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_218413",
+            "_id": "224954",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Aadukalam - Jun 18, 2025",
+            "globalServiceName": "Aadukalam",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T22:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T17:00:07.493Z",
+            "generalInfo": {
+                "displayTitle": "E72 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Sathya loves her sister like a second mother & believes compassion outweighs all riches. But, Selvanayagi, a woman of pride & privilege, worships money & social status. When their worlds collide, what trials will Sathya face in her fight for justice?",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Aadukalam - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "Sathya loves her sister like a second mother & believes compassion outweighs all riches. But, Selvanayagi, a woman of pride & privilege, worships money & social status. When their worlds collide, what trials will Sathya face in her fight for justice?",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "224954",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/224954/1600x1200_AadukalamJun182025_224954_9ceffba4-6e25-41fd-b0a0-924e11f5c383.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/224954/832x623_AadukalamJun182025_224954_9ceffba4-6e25-41fd-b0a0-924e11f5c383.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/224954/452x339_AadukalamJun182025_224954_9ceffba4-6e25-41fd-b0a0-924e11f5c383.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/224954/361x270_AadukalamJun182025_224954_9ceffba4-6e25-41fd-b0a0-924e11f5c383.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/224954/200x150_AadukalamJun182025_224954_9ceffba4-6e25-41fd-b0a0-924e11f5c383.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/224954/1000x1500_AadukalamJun182025_224954_a9d6d9e4-3da9-4e9a-a198-dbe3f34c143f.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/224954/500x750_AadukalamJun182025_224954_a9d6d9e4-3da9-4e9a-a198-dbe3f34c143f.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/224954/250x375_AadukalamJun182025_224954_a9d6d9e4-3da9-4e9a-a198-dbe3f34c143f.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/224954/640x360_AadukalamJun182025_224954_93153409-5302-4371-98ae-3abd8ecddd91.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/224954/1920x1080_AadukalamJun182025_224954_93153409-5302-4371-98ae-3abd8ecddd91.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/224954/1280x720_AadukalamJun182025_224954_93153409-5302-4371-98ae-3abd8ecddd91.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/224954/960x540_AadukalamJun182025_224954_93153409-5302-4371-98ae-3abd8ecddd91.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T22:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    },
+                    {
+                        "id": "59cd364fe4b02d8476358636",
+                        "name": "Family Drama"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 72.0,
+                "serialNo": "72",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_222395",
+            "_id": "225180",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sangharsh Anandi Ka - Jun 18, 2025",
+            "globalServiceName": "Sangharsh Anandi Ka",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T22:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T17:00:09.558Z",
+            "generalInfo": {
+                "displayTitle": "E79 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Born into a humble & rustic background troubled by familial & financial concerns, Anandhi takes it upon herself to leave home & fearlessly pursue a better life for her family. Watch her bravely face the odds of life with unwavering spirit.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sangharsh Anandi Ka - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "Born into a humble & rustic background troubled by familial & financial concerns, Anandhi takes it upon herself to leave home & fearlessly pursue a better life for her family. Watch her bravely face the odds of life with unwavering spirit.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "225180",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/225180/1600x1200_SangharshAnandiKaJun182025_225180_f28769c9-72c1-466d-8874-360b97a880ca.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/225180/832x623_SangharshAnandiKaJun182025_225180_f28769c9-72c1-466d-8874-360b97a880ca.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/225180/452x339_SangharshAnandiKaJun182025_225180_f28769c9-72c1-466d-8874-360b97a880ca.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/225180/361x270_SangharshAnandiKaJun182025_225180_f28769c9-72c1-466d-8874-360b97a880ca.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/225180/200x150_SangharshAnandiKaJun182025_225180_f28769c9-72c1-466d-8874-360b97a880ca.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/225180/1000x1500_SangharshAnandiKaJun182025_225180_56ea4df0-a559-4f25-ac7f-1d3d5afc4779.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/225180/500x750_SangharshAnandiKaJun182025_225180_56ea4df0-a559-4f25-ac7f-1d3d5afc4779.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/225180/250x375_SangharshAnandiKaJun182025_225180_56ea4df0-a559-4f25-ac7f-1d3d5afc4779.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/225180/640x360_SangharshAnandiKaJun182025_225180_97974fc9-3af9-45a3-a969-4c1e0100e78f.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/225180/1920x1080_SangharshAnandiKaJun182025_225180_97974fc9-3af9-45a3-a969-4c1e0100e78f.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/225180/1280x720_SangharshAnandiKaJun182025_225180_97974fc9-3af9-45a3-a969-4c1e0100e78f.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/225180/960x540_SangharshAnandiKaJun182025_225180_97974fc9-3af9-45a3-a969-4c1e0100e78f.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T22:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 79.0,
+                "serialNo": "79",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "hindi"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_178441",
+            "_id": "225346",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Hridayam - Jun 18, 2025",
+            "globalServiceName": "Hridayam",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T22:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T16:55:03.633Z",
+            "generalInfo": {
+                "displayTitle": "E569 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "In an unhappy marriage with a vicious wife, Dr.Niranjan's sole joy is his daughter Shruthi. While Sudhi & Devika believe they've found their soulmate in each other. But fate places them in a complex web of relationships when the couples cross paths.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Hridayam - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "In an unhappy marriage with a vicious wife, Dr.Niranjan's sole joy is his daughter Shruthi. While Sudhi & Devika believe they've found their soulmate in each other. But fate places them in a complex web of relationships when the couples cross paths.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "225346",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/225346/1600x1200_HridayamJun182025_225346_10373ace-f8ba-4c88-bced-6cdd1e5131a6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/225346/832x623_HridayamJun182025_225346_10373ace-f8ba-4c88-bced-6cdd1e5131a6.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/225346/452x339_HridayamJun182025_225346_10373ace-f8ba-4c88-bced-6cdd1e5131a6.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/225346/361x270_HridayamJun182025_225346_10373ace-f8ba-4c88-bced-6cdd1e5131a6.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/225346/200x150_HridayamJun182025_225346_10373ace-f8ba-4c88-bced-6cdd1e5131a6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/225346/1000x1500_HridayamJun182025_225346_ecc646f5-5fe7-491d-b90e-2ded985a5b60.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/225346/500x750_HridayamJun182025_225346_ecc646f5-5fe7-491d-b90e-2ded985a5b60.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/225346/250x375_HridayamJun182025_225346_ecc646f5-5fe7-491d-b90e-2ded985a5b60.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/225346/640x360_HridayamJun182025_225346_dd9c7214-fced-4630-b369-5c9a9bfde32f.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/225346/1920x1080_HridayamJun182025_225346_dd9c7214-fced-4630-b369-5c9a9bfde32f.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/225346/1280x720_HridayamJun182025_225346_dd9c7214-fced-4630-b369-5c9a9bfde32f.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/225346/960x540_HridayamJun182025_225346_dd9c7214-fced-4630-b369-5c9a9bfde32f.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T22:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 569.0,
+                "serialNo": "569",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "malayalam"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_201530",
+            "_id": "225081",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Chikkejamani - Jun 18, 2025",
+            "globalServiceName": "Chikkejamani",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T22:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T16:55:03.636Z",
+            "generalInfo": {
+                "displayTitle": "E261 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "When fate takes everything from Cauvery's life, her destiny gives her what she deserves. Chikkejamani is the story of a simple girl's extraordinary journey to become the next head of the town's most prominent family's vast business empire.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Chikkejamani - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "When fate takes everything from Cauvery's life, her destiny gives her what she deserves. Chikkejamani is the story of a simple girl's extraordinary journey to become the next head of the town's most prominent family's vast business empire.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "225081",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/225081/1600x1200_ChikkejamaniJun182025_225081_b5f34817-ef11-49c7-b080-903d23d41781.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/225081/832x623_ChikkejamaniJun182025_225081_b5f34817-ef11-49c7-b080-903d23d41781.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/225081/452x339_ChikkejamaniJun182025_225081_b5f34817-ef11-49c7-b080-903d23d41781.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/225081/361x270_ChikkejamaniJun182025_225081_b5f34817-ef11-49c7-b080-903d23d41781.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/225081/200x150_ChikkejamaniJun182025_225081_b5f34817-ef11-49c7-b080-903d23d41781.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/225081/1000x1500_ChikkejamaniJun182025_225081_9592e690-4162-4bc9-a854-93a9b1a13fc4.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/225081/500x750_ChikkejamaniJun182025_225081_9592e690-4162-4bc9-a854-93a9b1a13fc4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/225081/250x375_ChikkejamaniJun182025_225081_9592e690-4162-4bc9-a854-93a9b1a13fc4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/225081/640x360_ChikkejamaniJun182025_225081_315943b5-e448-4985-a46c-5241aa3b5dc5.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/225081/1920x1080_ChikkejamaniJun182025_225081_315943b5-e448-4985-a46c-5241aa3b5dc5.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/225081/1280x720_ChikkejamaniJun182025_225081_315943b5-e448-4985-a46c-5241aa3b5dc5.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/225081/960x540_ChikkejamaniJun182025_225081_315943b5-e448-4985-a46c-5241aa3b5dc5.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T22:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 261.0,
+                "serialNo": "261",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "kannada"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_190589",
+            "_id": "225135",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Aadishakti - Jun 18, 2025",
+            "globalServiceName": "Aadishakti",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T21:34:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T16:30:04.071Z",
+            "generalInfo": {
+                "displayTitle": "E382 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Born to a loving mother, Maitreyee, and an evil father, Yashvardhan, Aaditi grows up to be a brave girl with abundant love and divine grace. What happens when she faces treachery & betrayal from the family?",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Aadishakti - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Born to a loving mother, Maitreyee, and an evil father, Yashvardhan, Aaditi grows up to be a brave girl with abundant love and divine grace. What happens when she faces treachery & betrayal from the family?",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "225135",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/225135/1600x1200_AadishaktiJun182025_225135_80879dc6-054b-4034-9ea0-70bc7d1e69ab.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/225135/832x623_AadishaktiJun182025_225135_80879dc6-054b-4034-9ea0-70bc7d1e69ab.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/225135/452x339_AadishaktiJun182025_225135_80879dc6-054b-4034-9ea0-70bc7d1e69ab.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/225135/361x270_AadishaktiJun182025_225135_80879dc6-054b-4034-9ea0-70bc7d1e69ab.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/225135/200x150_AadishaktiJun182025_225135_80879dc6-054b-4034-9ea0-70bc7d1e69ab.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/225135/1000x1500_AadishaktiJun182025_225135_5959aa1e-a14f-458e-abf7-70bec07cca8a.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/225135/500x750_AadishaktiJun182025_225135_5959aa1e-a14f-458e-abf7-70bec07cca8a.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/225135/250x375_AadishaktiJun182025_225135_5959aa1e-a14f-458e-abf7-70bec07cca8a.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/225135/640x360_AadishaktiJun182025_225135_00c4e0f7-e9e8-4026-b53f-71918d211ab1.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/225135/1920x1080_AadishaktiJun182025_225135_00c4e0f7-e9e8-4026-b53f-71918d211ab1.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/225135/1280x720_AadishaktiJun182025_225135_00c4e0f7-e9e8-4026-b53f-71918d211ab1.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/225135/960x540_AadishaktiJun182025_225135_00c4e0f7-e9e8-4026-b53f-71918d211ab1.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T21:34:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 382.0,
+                "serialNo": "382",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "marathi"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-06-18T00:00:00.000Z",
+            "globalServiceId": "GID_225445",
+            "_id": "225448",
+            "endDate": "2028-06-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Crime Diary - Jun 18, 2025",
+            "globalServiceName": "Crime Diary",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "ms.techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 206,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-06-18T21:30:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0985\u09aa\u09b0\u09be\u09a7\u09c7\u09b0 \u09a1\u09be\u09af\u09bc\u09c7\u09b0\u09bf"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2028-06-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T17:00:09.823Z",
+            "generalInfo": {
+                "displayTitle": "E3 - Jun 18, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0985\u09aa\u09b0\u09be\u09a7\u09c7\u09b0 \u09a1\u09be\u09af\u09bc\u09c7\u09b0\u09bf"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Crime Diary",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": "\u0985\u09aa\u09b0\u09be\u09a7\u09c7\u09b0 \u09a1\u09be\u09af\u09bc\u09c7\u09b0\u09bf",
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Crime Diary - Jun 18, 2025",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vod",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "Crime Diary",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "225448",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u09b8\u09be\u09a8 \u09ac\u09be\u0982\u09b2\u09be",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/225448/1600x1200_CrimeDiaryJun182025_225448_a0d74835-5b3f-4940-8ea3-52ef6ec01142.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/225448/832x623_CrimeDiaryJun182025_225448_a0d74835-5b3f-4940-8ea3-52ef6ec01142.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/225448/452x339_CrimeDiaryJun182025_225448_a0d74835-5b3f-4940-8ea3-52ef6ec01142.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/225448/361x270_CrimeDiaryJun182025_225448_a0d74835-5b3f-4940-8ea3-52ef6ec01142.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/225448/200x150_CrimeDiaryJun182025_225448_a0d74835-5b3f-4940-8ea3-52ef6ec01142.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/225448/1000x1500_CrimeDiaryJun182025_225448_1102b39b-ccf3-4bb0-bd54-d38ac6486326.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/225448/500x750_CrimeDiaryJun182025_225448_1102b39b-ccf3-4bb0-bd54-d38ac6486326.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/225448/250x375_CrimeDiaryJun182025_225448_1102b39b-ccf3-4bb0-bd54-d38ac6486326.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/225448/640x360_CrimeDiaryJun182025_225448_7878c1aa-8ec3-4a68-9b73-a45713858cfe.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/225448/1920x1080_CrimeDiaryJun182025_225448_7878c1aa-8ec3-4a68-9b73-a45713858cfe.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/225448/1280x720_CrimeDiaryJun182025_225448_7878c1aa-8ec3-4a68-9b73-a45713858cfe.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/225448/960x540_CrimeDiaryJun182025_225448_7878c1aa-8ec3-4a68-9b73-a45713858cfe.jpg"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-06-18T21:30:00.000Z",
+                "genre": [
+                    {
+                        "id": "59831681e4b0bfe3d584f720",
+                        "name": "Crime"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 3.0,
+                "serialNo": "3",
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "bengali"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        }
+    ],
+    "request_id": "5c474b5b-51d5-47b4-b5ac-266da5876dd2",
+    "showAll": "yes",
+    "seoDescription": null,
+    "message": "OK"
+}
