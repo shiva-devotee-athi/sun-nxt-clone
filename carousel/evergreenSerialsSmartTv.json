@@ -1,0 +1,3109 @@
+{
+    "status": "SUCCESS",
+    "code": 200,
+    "tags": null,
+    "facets": null,
+    "title": "Iconic Evergreen Serials",
+    "results": [
+        {
+            "startDate": "2025-02-24T00:00:00.000Z",
+            "globalServiceId": "GID_215777",
+            "_id": "215777",
+            "endDate": "2028-02-24T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Kumkuma Bhagya",
+            "globalServiceName": "Kumkuma Bhagya",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "Kiruba@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 165,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-02-24T13:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-02-24T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-29T05:03:35.070Z",
+            "generalInfo": {
+                "displayTitle": "Feb 24, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2025-02-24",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2025-04-19"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "The unmarried widow, Pooja is sold to become the bride of Gagan, the sole heir of an aristocratic family, with the intent of bearing a son. The story unfolds the intricate dynamics of Pooja, Gagan, & his first wife, amidst betrayal & malevolence.",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch Ethir Neechal Tamil serial online in full HD on Sun NXT. Subscribe and watch all the episodes of Ethir Neechal serial online in HD quality on Sun NXT",
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Kumkuma Bhagya",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "The unmarried widow, Pooja is sold to become the bride of Gagan, the sole heir of an aristocratic family, with the intent of bearing a son. The story unfolds the intricate dynamics of Pooja, Gagan, & his first wife, amidst betrayal & malevolence.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "215777",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch Ethir Neechal Tamil serial online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/215777/1600x1200_KumkumaBhagya_215777_6ec22bfa-bc27-4bac-8d51-231f2f999736.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/215777/832x623_KumkumaBhagya_215777_6ec22bfa-bc27-4bac-8d51-231f2f999736.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/215777/452x339_KumkumaBhagya_215777_6ec22bfa-bc27-4bac-8d51-231f2f999736.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/215777/361x270_KumkumaBhagya_215777_6ec22bfa-bc27-4bac-8d51-231f2f999736.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/215777/200x150_KumkumaBhagya_215777_6ec22bfa-bc27-4bac-8d51-231f2f999736.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/215777/640x360_KumkumaBhagya_215777_f71ef655-ce18-47e8-ba67-ecc5d1b45795.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/215777/1920x1080_KumkumaBhagya_215777_f71ef655-ce18-47e8-ba67-ecc5d1b45795.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/215777/1280x720_KumkumaBhagya_215777_f71ef655-ce18-47e8-ba67-ecc5d1b45795.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/215777/960x540_KumkumaBhagya_215777_f71ef655-ce18-47e8-ba67-ecc5d1b45795.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/215777/1000x1500_KumkumaBhagya_215777_74971636-910d-4d4f-bfb9-213cd39be498.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/215777/500x750_KumkumaBhagya_215777_74971636-910d-4d4f-bfb9-213cd39be498.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/215777/250x375_KumkumaBhagya_215777_74971636-910d-4d4f-bfb9-213cd39be498.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/215777/640x360_KumkumaBhagya_215777_4f96c936-4727-46a5-8ffb-a537c9943ed0.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/215777/1920x1080_KumkumaBhagya_215777_4f96c936-4727-46a5-8ffb-a537c9943ed0.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/215777/1280x720_KumkumaBhagya_215777_4f96c936-4727-46a5-8ffb-a537c9943ed0.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/215777/960x540_KumkumaBhagya_215777_4f96c936-4727-46a5-8ffb-a537c9943ed0.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/215777/1000x1500_KumkumaBhagya_215777_59ef3f68-c2f4-4e30-842c-d274a97dfad9.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/215777/500x750_KumkumaBhagya_215777_59ef3f68-c2f4-4e30-842c-d274a97dfad9.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/215777/250x375_KumkumaBhagya_215777_59ef3f68-c2f4-4e30-842c-d274a97dfad9.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/215777/KumkumaBhagya_215777_58b4deef-c618-44f6-9bde-38dbde535522.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/215777/KumkumaBhagya_215777_58b4deef-c618-44f6-9bde-38dbde535522.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/215777/KumkumaBhagya_215777_58b4deef-c618-44f6-9bde-38dbde535522.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-02-24T13:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "59cd364fe4b02d8476358636",
+                        "name": "Family Drama"
+                    },
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:44:00",
+                "is3d": false,
+                "siblingOrder": 25.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "kannada"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-02-24T00:00:00.000Z",
+            "globalServiceId": "GID_215776",
+            "_id": "215776",
+            "endDate": "2028-02-24T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Devi Putri",
+            "globalServiceName": "Devi Putri",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "Kiruba@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 165,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-02-24T12:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2028-02-24T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-29T05:01:42.389Z",
+            "generalInfo": {
+                "displayTitle": "Feb 24, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2025-02-24",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2025-04-19"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Grown up with the divine grace of Goddess Shashti Devi, Vaishnavi ties the knot with Karthik, a victim of his stepmom's evil dominance. Can Vaishnavi\u2019s unwavering faith & love break her husband's curse & lead to a loving marriage?",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch Ethir Neechal Tamil serial online in full HD on Sun NXT. Subscribe and watch all the episodes of Ethir Neechal serial online in HD quality on Sun NXT",
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Devi Putri",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "Grown up with the divine grace of Goddess Shashti Devi, Vaishnavi ties the knot with Karthik, a victim of his stepmom's evil dominance. Can Vaishnavi\u2019s unwavering faith & love break her husband's curse & lead to a loving marriage?",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "215776",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch Ethir Neechal Tamil serial online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/215776/1600x1200_DeviPutri_215776_9a2f51f0-6b29-447a-a871-1793d646d21d.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/215776/832x623_DeviPutri_215776_9a2f51f0-6b29-447a-a871-1793d646d21d.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/215776/452x339_DeviPutri_215776_9a2f51f0-6b29-447a-a871-1793d646d21d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/215776/361x270_DeviPutri_215776_9a2f51f0-6b29-447a-a871-1793d646d21d.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/215776/200x150_DeviPutri_215776_9a2f51f0-6b29-447a-a871-1793d646d21d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/215776/640x360_DeviPutri_215776_470844a9-f6cb-4bc1-b50b-5e5228222200.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/215776/1920x1080_DeviPutri_215776_470844a9-f6cb-4bc1-b50b-5e5228222200.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/215776/1280x720_DeviPutri_215776_470844a9-f6cb-4bc1-b50b-5e5228222200.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/215776/960x540_DeviPutri_215776_470844a9-f6cb-4bc1-b50b-5e5228222200.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/215776/1000x1500_DeviPutri_215776_f37dbda4-05d1-4594-96c5-f406b5f1c562.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/215776/500x750_DeviPutri_215776_f37dbda4-05d1-4594-96c5-f406b5f1c562.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/215776/250x375_DeviPutri_215776_f37dbda4-05d1-4594-96c5-f406b5f1c562.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/215776/640x360_DeviPutri_215776_7f57d430-3552-4fd1-924f-42ae90aa1e19.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/215776/1920x1080_DeviPutri_215776_7f57d430-3552-4fd1-924f-42ae90aa1e19.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/215776/1280x720_DeviPutri_215776_7f57d430-3552-4fd1-924f-42ae90aa1e19.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/215776/960x540_DeviPutri_215776_7f57d430-3552-4fd1-924f-42ae90aa1e19.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/215776/1000x1500_DeviPutri_215776_9358e1d5-60c9-47f7-b1ab-9c99832b5510.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/215776/500x750_DeviPutri_215776_9358e1d5-60c9-47f7-b1ab-9c99832b5510.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/215776/250x375_DeviPutri_215776_9358e1d5-60c9-47f7-b1ab-9c99832b5510.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/215776/DeviPutri_215776_5ba03ba9-4f6e-4a88-88ad-c5ffaf9344b3.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/215776/DeviPutri_215776_5ba03ba9-4f6e-4a88-88ad-c5ffaf9344b3.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/215776/DeviPutri_215776_5ba03ba9-4f6e-4a88-88ad-c5ffaf9344b3.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-02-24T12:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "59cd364fe4b02d8476358636",
+                        "name": "Family Drama"
+                    },
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:44:00",
+                "is3d": false,
+                "siblingOrder": 17.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "kannada"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2025-01-08T00:00:00.000Z",
+            "globalServiceId": "GID_211381",
+            "_id": "211381",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Shambhavi",
+            "globalServiceName": "Shambhavi",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "Kiruba@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 165,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2025-01-08T14:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2027-01-08T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-02T09:38:19.478Z",
+            "generalInfo": {
+                "displayTitle": "Jan 08, 2025",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2025-01-08",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2025-03-28"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Shambhavi Hindi Serial",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Shambhavi",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "Shambhavi Hindi Serial",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "211381",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/211381/1600x1200_Shambhavi_211381_bdabf356-0de3-4924-a018-4065698f6eff.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/211381/832x623_Shambhavi_211381_bdabf356-0de3-4924-a018-4065698f6eff.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/211381/452x339_Shambhavi_211381_bdabf356-0de3-4924-a018-4065698f6eff.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/211381/361x270_Shambhavi_211381_bdabf356-0de3-4924-a018-4065698f6eff.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/211381/200x150_Shambhavi_211381_bdabf356-0de3-4924-a018-4065698f6eff.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/211381/640x360_Shambhavi_211381_c0dfa8bf-1286-44e6-8195-6dcf458292a6.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/211381/1920x1080_Shambhavi_211381_c0dfa8bf-1286-44e6-8195-6dcf458292a6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/211381/1280x720_Shambhavi_211381_c0dfa8bf-1286-44e6-8195-6dcf458292a6.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/211381/960x540_Shambhavi_211381_c0dfa8bf-1286-44e6-8195-6dcf458292a6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/211381/1000x1500_Shambhavi_211381_f76d1d29-a47b-4a82-96e1-2a8b9cdc530a.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/211381/500x750_Shambhavi_211381_f76d1d29-a47b-4a82-96e1-2a8b9cdc530a.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/211381/250x375_Shambhavi_211381_f76d1d29-a47b-4a82-96e1-2a8b9cdc530a.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/211381/640x360_Shambhavi_211381_9f62091b-c16f-4832-be22-598b69850d89.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/211381/1920x1080_Shambhavi_211381_9f62091b-c16f-4832-be22-598b69850d89.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/211381/1280x720_Shambhavi_211381_9f62091b-c16f-4832-be22-598b69850d89.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/211381/960x540_Shambhavi_211381_9f62091b-c16f-4832-be22-598b69850d89.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/211381/1000x1500_Shambhavi_211381_e309c68d-2ac1-4f78-a177-be153c3f4efa.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/211381/500x750_Shambhavi_211381_e309c68d-2ac1-4f78-a177-be153c3f4efa.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/211381/250x375_Shambhavi_211381_e309c68d-2ac1-4f78-a177-be153c3f4efa.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/211381/Shambhavi_211381_6ba346ab-fbac-4de7-82da-ff02a43ba710.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/211381/Shambhavi_211381_6ba346ab-fbac-4de7-82da-ff02a43ba710.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/211381/Shambhavi_211381_6ba346ab-fbac-4de7-82da-ff02a43ba710.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2025-01-08T14:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:44:00",
+                "is3d": false,
+                "siblingOrder": 9.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "hindi"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-11-04T00:00:00.000Z",
+            "globalServiceId": "GID_205350",
+            "_id": "205350",
+            "endDate": "2027-11-04T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Ranjani",
+            "globalServiceName": "Ranjani",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2024-11-04T21:30:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2027-11-04T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-07T10:10:01.484Z",
+            "generalInfo": {
+                "displayTitle": "Nov 04, 2024",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2024-11-04",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2025-04-06"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Raised in a strict home, Ranjani found happiness solely in the company of four boys from her neighbourhood. As she grew up, their friendship meant the world to her. Can she find love while upholding their close bonds amidst family and social constraints?",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Ranjani",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "Raised in a strict home, Ranjani found happiness solely in the company of four boys from her neighbourhood. As she grew up, their friendship meant the world to her. Can she find love while upholding their close bonds amidst family and social constraints?",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "205350",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/205350/1600x1200_Ranjani_205350_905d1317-b5f6-4cb7-a5a2-fec458dc9408.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/205350/832x623_Ranjani_205350_905d1317-b5f6-4cb7-a5a2-fec458dc9408.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/205350/452x339_Ranjani_205350_905d1317-b5f6-4cb7-a5a2-fec458dc9408.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/205350/361x270_Ranjani_205350_905d1317-b5f6-4cb7-a5a2-fec458dc9408.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/205350/200x150_Ranjani_205350_905d1317-b5f6-4cb7-a5a2-fec458dc9408.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/205350/640x360_Ranjani_205350_4be2d379-d78e-4744-a770-b7a201bd8f17.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/205350/1920x1080_Ranjani_205350_4be2d379-d78e-4744-a770-b7a201bd8f17.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/205350/1280x720_Ranjani_205350_4be2d379-d78e-4744-a770-b7a201bd8f17.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/205350/960x540_Ranjani_205350_4be2d379-d78e-4744-a770-b7a201bd8f17.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/205350/1000x1500_Ranjani_205350_ebe52683-76a0-42e2-a6f2-faf0c6f5c5b9.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/205350/500x750_Ranjani_205350_ebe52683-76a0-42e2-a6f2-faf0c6f5c5b9.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/205350/250x375_Ranjani_205350_ebe52683-76a0-42e2-a6f2-faf0c6f5c5b9.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/205350/150x150_Ranjani_205350_66aa2d5e-324d-4ba2-a18a-9e65075212f8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/205350/200x200_Ranjani_205350_66aa2d5e-324d-4ba2-a18a-9e65075212f8.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/205350/250x250_Ranjani_205350_66aa2d5e-324d-4ba2-a18a-9e65075212f8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/205350/300x300_Ranjani_205350_66aa2d5e-324d-4ba2-a18a-9e65075212f8.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/205350/1000x1000_Ranjani_205350_66aa2d5e-324d-4ba2-a18a-9e65075212f8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/205350/640x360_Ranjani_205350_878053fd-823b-401a-b950-39b8c16d2b6c.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/205350/1920x1080_Ranjani_205350_878053fd-823b-401a-b950-39b8c16d2b6c.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/205350/1280x720_Ranjani_205350_878053fd-823b-401a-b950-39b8c16d2b6c.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/205350/960x540_Ranjani_205350_878053fd-823b-401a-b950-39b8c16d2b6c.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/205350/1000x1500_Ranjani_205350_5a4344da-8e7d-42c9-b273-007802a25192.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/205350/500x750_Ranjani_205350_5a4344da-8e7d-42c9-b273-007802a25192.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/205350/250x375_Ranjani_205350_5a4344da-8e7d-42c9-b273-007802a25192.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/205350/Ranjani_205350_7b6c10b4-ab9d-4ffd-9ef4-eaf77129e52c.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/205350/Ranjani_205350_7b6c10b4-ab9d-4ffd-9ef4-eaf77129e52c.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/205350/Ranjani_205350_7b6c10b4-ab9d-4ffd-9ef4-eaf77129e52c.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2024-11-04T21:30:00.000Z",
+                "genre": [
+                    {
+                        "id": "59cd364fe4b02d8476358636",
+                        "name": "Family Drama"
+                    },
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:22:00",
+                "is3d": false,
+                "siblingOrder": 43.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-10-20T00:00:00.000Z",
+            "globalServiceId": "GID_204078",
+            "_id": "204078",
+            "endDate": "2027-10-20T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Anamika",
+            "globalServiceName": "Anamika",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "Kiruba@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 165,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2024-10-20T22:00:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2027-10-20T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-02T09:24:18.961Z",
+            "generalInfo": {
+                "displayTitle": "Oct 20, 2024",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2024-10-20",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2024-11-18"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Bound for over 200 years in a quest for indomitable power, an evil entity released by Anamika threatens her lover Nanda's life, setting off an age-old battle between good and evil.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Anamika",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Bound for over 200 years in a quest for indomitable power, an evil entity released by Anamika threatens her lover Nanda's life, setting off an age-old battle between good and evil.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "204078",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": null,
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/204078/1600x1200_Anamika_204078_b0dfa29f-e8a0-48b0-99e9-ad383e7bf3d6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/204078/832x623_Anamika_204078_b0dfa29f-e8a0-48b0-99e9-ad383e7bf3d6.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/204078/452x339_Anamika_204078_b0dfa29f-e8a0-48b0-99e9-ad383e7bf3d6.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/204078/361x270_Anamika_204078_b0dfa29f-e8a0-48b0-99e9-ad383e7bf3d6.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/204078/200x150_Anamika_204078_b0dfa29f-e8a0-48b0-99e9-ad383e7bf3d6.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/204078/640x360_Anamika_204078_5ff65c61-790b-4eff-aafa-db9e8a44b094.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/204078/1920x1080_Anamika_204078_5ff65c61-790b-4eff-aafa-db9e8a44b094.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/204078/1280x720_Anamika_204078_5ff65c61-790b-4eff-aafa-db9e8a44b094.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/204078/960x540_Anamika_204078_5ff65c61-790b-4eff-aafa-db9e8a44b094.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/204078/1000x1500_Anamika_204078_18e396b4-b161-421f-9f29-ab9aeb42f10d.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/204078/500x750_Anamika_204078_18e396b4-b161-421f-9f29-ab9aeb42f10d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/204078/250x375_Anamika_204078_18e396b4-b161-421f-9f29-ab9aeb42f10d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/204078/640x360_Anamika_204078_4c7bd506-de31-43f7-9f54-2280a175498c.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/204078/1920x1080_Anamika_204078_4c7bd506-de31-43f7-9f54-2280a175498c.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/204078/1280x720_Anamika_204078_4c7bd506-de31-43f7-9f54-2280a175498c.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/204078/960x540_Anamika_204078_4c7bd506-de31-43f7-9f54-2280a175498c.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/204078/1000x1500_Anamika_204078_80b1b60e-a311-4a95-ad9f-0ea2cfc912f8.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/204078/500x750_Anamika_204078_80b1b60e-a311-4a95-ad9f-0ea2cfc912f8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/204078/250x375_Anamika_204078_80b1b60e-a311-4a95-ad9f-0ea2cfc912f8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/204078/Anamika_204078_9084e4a6-6bff-4ba9-9063-f70afa89499c.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/204078/Anamika_204078_9084e4a6-6bff-4ba9-9063-f70afa89499c.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/204078/Anamika_204078_9084e4a6-6bff-4ba9-9063-f70afa89499c.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2024-10-20T22:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:44:00",
+                "is3d": false,
+                "siblingOrder": 630.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "marathi"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-09-24T00:00:00.000Z",
+            "globalServiceId": "GID_202227",
+            "_id": "202227",
+            "endDate": "2026-09-24T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sindoorer Adhikar",
+            "globalServiceName": "Sindoorer Adhikar",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2024-09-30T21:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u09b8\u09bf\u0981\u09a6\u09c1\u09b0\u09c7\u09b0 \u0985\u09a7\u09bf\u0995\u09be\u09b0"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-09-24T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-07T10:11:50.007Z",
+            "generalInfo": {
+                "displayTitle": "Sep 30, 2024",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u09b8\u09bf\u0981\u09a6\u09c1\u09b0\u09c7\u09b0 \u0985\u09a7\u09bf\u0995\u09be\u09b0"
+                    }
+                ],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2024-09-30",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2025-04-05"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Phool enters into wedlock with Shovon from a royal lineage solely to provide an heir. Follow Phool & Shovon as they embrace the power of love to save the royal dynasty, engulfed in a web of deceit amidst fear, betrayal & malevolence.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": "\u09ac\u09be\u0999\u09be\u09b2\u09c0",
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sindoorer Adhikar",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "Phool enters into wedlock with Shovon from a royal lineage solely to provide an heir. Follow Phool & Shovon as they embrace the power of love to save the royal dynasty, engulfed in a web of deceit amidst fear, betrayal & malevolence.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "202227",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u09ac\u09be\u0999\u09be\u09b2\u09c0",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/202227/1600x1200_SindoorerAdhikar_202227_676347c1-a0a2-477a-963e-2d25bd9375d9.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/202227/832x623_SindoorerAdhikar_202227_676347c1-a0a2-477a-963e-2d25bd9375d9.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/202227/452x339_SindoorerAdhikar_202227_676347c1-a0a2-477a-963e-2d25bd9375d9.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/202227/361x270_SindoorerAdhikar_202227_676347c1-a0a2-477a-963e-2d25bd9375d9.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/202227/200x150_SindoorerAdhikar_202227_676347c1-a0a2-477a-963e-2d25bd9375d9.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/202227/640x360_SindoorerAdhikar_202227_3c7d3505-7d30-49a7-9ac8-f16967c682a3.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/202227/1920x1080_SindoorerAdhikar_202227_3c7d3505-7d30-49a7-9ac8-f16967c682a3.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/202227/1280x720_SindoorerAdhikar_202227_3c7d3505-7d30-49a7-9ac8-f16967c682a3.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/202227/960x540_SindoorerAdhikar_202227_3c7d3505-7d30-49a7-9ac8-f16967c682a3.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/202227/1000x1500_SindoorerAdhikar_202227_052a7dbf-6760-47ff-858f-abf54dc1a8c6.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/202227/500x750_SindoorerAdhikar_202227_052a7dbf-6760-47ff-858f-abf54dc1a8c6.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/202227/250x375_SindoorerAdhikar_202227_052a7dbf-6760-47ff-858f-abf54dc1a8c6.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/202227/640x360_SindoorerAdhikar_202227_402773ae-e1fa-4dcd-a22a-1118ece5f7cb.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/202227/1920x1080_SindoorerAdhikar_202227_402773ae-e1fa-4dcd-a22a-1118ece5f7cb.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/202227/1280x720_SindoorerAdhikar_202227_402773ae-e1fa-4dcd-a22a-1118ece5f7cb.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/202227/960x540_SindoorerAdhikar_202227_402773ae-e1fa-4dcd-a22a-1118ece5f7cb.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/202227/1000x1500_SindoorerAdhikar_202227_371606b5-abf5-40e5-baea-56397412cc87.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/202227/500x750_SindoorerAdhikar_202227_371606b5-abf5-40e5-baea-56397412cc87.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/202227/250x375_SindoorerAdhikar_202227_371606b5-abf5-40e5-baea-56397412cc87.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/202227/SindoorerAdhikar_202227_2d975acf-6542-4388-b95f-9cfb2e69a306.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/202227/SindoorerAdhikar_202227_2d975acf-6542-4388-b95f-9cfb2e69a306.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/202227/SindoorerAdhikar_202227_2d975acf-6542-4388-b95f-9cfb2e69a306.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2024-09-30T21:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "59cd364fe4b02d8476358636",
+                        "name": "Family Drama"
+                    },
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:30:00",
+                "is3d": false,
+                "siblingOrder": 11.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "bengali"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-09-24T00:00:00.000Z",
+            "globalServiceId": "GID_202223",
+            "_id": "202223",
+            "endDate": "2026-09-24T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Radha",
+            "globalServiceName": "Radha",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2024-09-30T20:30:00.000Z",
+            "altTitle": [],
+            "programId": "",
+            "_expiresAt": "2026-09-24T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-12T13:38:39.763Z",
+            "generalInfo": {
+                "displayTitle": "Sep 30, 2024",
+                "contentPlayDuration": null,
+                "altTitle": [],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2024-09-30",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2025-05-10"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Things take a momentous shift when a bold & loving village girl, Radha, crosses paths with a doting father and his 6-year-old daughter, who yearns for a mother's love. Join the family's journey through the nuances of love, affection & parenthood.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Radha",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": true,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "Things take a momentous shift when a bold & loving village girl, Radha, crosses paths with a doting father and his 6-year-old daughter, who yearns for a mother's love. Join the family's journey through the nuances of love, affection & parenthood.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "202223",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "DUMMY"
+                                    ],
+                                    "name": "country",
+                                    "condition": "NOT IN"
+                                }
+                            ],
+                            "name": "Free to all countries",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "AVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/202223/1600x1200_Radha_202223_6179e83e-3942-4a43-9ab8-35f1314b0bd7.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/202223/832x623_Radha_202223_6179e83e-3942-4a43-9ab8-35f1314b0bd7.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/202223/452x339_Radha_202223_6179e83e-3942-4a43-9ab8-35f1314b0bd7.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/202223/361x270_Radha_202223_6179e83e-3942-4a43-9ab8-35f1314b0bd7.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/202223/200x150_Radha_202223_6179e83e-3942-4a43-9ab8-35f1314b0bd7.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/202223/640x360_Radha_202223_745b7906-ecc7-479b-ace5-8674f0c7b8ca.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/202223/1920x1080_Radha_202223_745b7906-ecc7-479b-ace5-8674f0c7b8ca.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/202223/1280x720_Radha_202223_745b7906-ecc7-479b-ace5-8674f0c7b8ca.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/202223/960x540_Radha_202223_745b7906-ecc7-479b-ace5-8674f0c7b8ca.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/202223/1000x1500_Radha_202223_96bd047a-dbeb-4c66-8f40-8482d4d999aa.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/202223/500x750_Radha_202223_96bd047a-dbeb-4c66-8f40-8482d4d999aa.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/202223/250x375_Radha_202223_96bd047a-dbeb-4c66-8f40-8482d4d999aa.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/202223/150x150_Radha_202223_773ffc72-886b-48b0-9753-9ba68db3b2ef.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/202223/200x200_Radha_202223_773ffc72-886b-48b0-9753-9ba68db3b2ef.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/202223/250x250_Radha_202223_773ffc72-886b-48b0-9753-9ba68db3b2ef.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/202223/300x300_Radha_202223_773ffc72-886b-48b0-9753-9ba68db3b2ef.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/202223/1000x1000_Radha_202223_773ffc72-886b-48b0-9753-9ba68db3b2ef.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/202223/640x360_Radha_202223_ccf97238-3ce2-4962-969d-a88d78c3691a.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/202223/1920x1080_Radha_202223_ccf97238-3ce2-4962-969d-a88d78c3691a.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/202223/1280x720_Radha_202223_ccf97238-3ce2-4962-969d-a88d78c3691a.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/202223/960x540_Radha_202223_ccf97238-3ce2-4962-969d-a88d78c3691a.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/202223/1000x1500_Radha_202223_573ddcb0-14bf-41e2-8a0f-c3f0b1b39c84.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/202223/500x750_Radha_202223_573ddcb0-14bf-41e2-8a0f-c3f0b1b39c84.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/202223/250x375_Radha_202223_573ddcb0-14bf-41e2-8a0f-c3f0b1b39c84.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/202223/Radha_202223_f60a8270-29ac-4830-93cd-31cfd2040a64.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/202223/Radha_202223_f60a8270-29ac-4830-93cd-31cfd2040a64.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/202223/Radha_202223_f60a8270-29ac-4830-93cd-31cfd2040a64.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2024-09-30T20:30:00.000Z",
+                "genre": [
+                    {
+                        "id": "59cd364fe4b02d8476358636",
+                        "name": "Family Drama"
+                    },
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:30:00",
+                "is3d": false,
+                "siblingOrder": 11.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": true,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "telugu"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-09-18T00:00:00.000Z",
+            "globalServiceId": "GID_201602",
+            "_id": "201602",
+            "endDate": "2026-09-18T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Swargavathil Pakshi",
+            "globalServiceName": "Swargavathil Pakshi",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2024-09-23T19:30:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0985\u09a8\u09be\u09ae\u09bf\u0995\u09be"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-09-18T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-01T12:51:11.747Z",
+            "generalInfo": {
+                "displayTitle": "Sep 23, 2024",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0985\u09a8\u09be\u09ae\u09bf\u0995\u09be"
+                    }
+                ],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2024-09-23",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2024-12-15"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Madhusri, the chosen one destined to destroy the evil forces with the \u2018Swargavathil Pakshi\u2019 & her great-grandmother\u2019s spirit. Watch her battle to triumph in her sacred task as she confronts malicious enemies, after being bestowed the divine nose pin.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": "\u0985\u09a8\u09be\u09ae\u09bf\u0995\u09be",
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Swargavathil Pakshi",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": true,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Madhusri, the chosen one destined to destroy the evil forces with the \u2018Swargavathil Pakshi\u2019 & her great-grandmother\u2019s spirit. Watch her battle to triumph in her sacred task as she confronts malicious enemies, after being bestowed the divine nose pin.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "201602",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u09ac\u09be\u0982\u09b2\u09be",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/201602/1600x1200_SwargavathilPakshi_201602_cc7f81ac-af09-4792-9449-e8643874d59b.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/201602/832x623_SwargavathilPakshi_201602_cc7f81ac-af09-4792-9449-e8643874d59b.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/201602/452x339_SwargavathilPakshi_201602_cc7f81ac-af09-4792-9449-e8643874d59b.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/201602/361x270_SwargavathilPakshi_201602_cc7f81ac-af09-4792-9449-e8643874d59b.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/201602/200x150_SwargavathilPakshi_201602_cc7f81ac-af09-4792-9449-e8643874d59b.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/201602/640x360_SwargavathilPakshi_201602_e22dbdb8-5979-4671-97ab-6ad33ff7b3d3.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/201602/1920x1080_SwargavathilPakshi_201602_e22dbdb8-5979-4671-97ab-6ad33ff7b3d3.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/201602/1280x720_SwargavathilPakshi_201602_e22dbdb8-5979-4671-97ab-6ad33ff7b3d3.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/201602/960x540_SwargavathilPakshi_201602_e22dbdb8-5979-4671-97ab-6ad33ff7b3d3.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/201602/1000x1500_SwargavathilPakshi_201602_94af12a9-6aa6-449e-839e-998efa551506.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/201602/500x750_SwargavathilPakshi_201602_94af12a9-6aa6-449e-839e-998efa551506.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/201602/250x375_SwargavathilPakshi_201602_94af12a9-6aa6-449e-839e-998efa551506.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/201602/150x150_SwargavathilPakshi_201602_b572ea13-a131-4e44-821f-c712adc151b6.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/201602/200x200_SwargavathilPakshi_201602_b572ea13-a131-4e44-821f-c712adc151b6.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/201602/250x250_SwargavathilPakshi_201602_b572ea13-a131-4e44-821f-c712adc151b6.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/201602/300x300_SwargavathilPakshi_201602_b572ea13-a131-4e44-821f-c712adc151b6.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/201602/1000x1000_SwargavathilPakshi_201602_b572ea13-a131-4e44-821f-c712adc151b6.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/201602/640x360_SwargavathilPakshi_201602_c4ca0a8f-1c08-4366-b0e9-cde80ce30bca.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/201602/1920x1080_SwargavathilPakshi_201602_c4ca0a8f-1c08-4366-b0e9-cde80ce30bca.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/201602/1280x720_SwargavathilPakshi_201602_c4ca0a8f-1c08-4366-b0e9-cde80ce30bca.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/201602/960x540_SwargavathilPakshi_201602_c4ca0a8f-1c08-4366-b0e9-cde80ce30bca.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/201602/1000x1500_SwargavathilPakshi_201602_4a03ff68-08d8-494d-bd8c-f974f60ea61d.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/201602/500x750_SwargavathilPakshi_201602_4a03ff68-08d8-494d-bd8c-f974f60ea61d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/201602/250x375_SwargavathilPakshi_201602_4a03ff68-08d8-494d-bd8c-f974f60ea61d.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/201602/SwargavathilPakshi_201602_53c00e41-3995-4419-8946-4d5324dcfea3.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/201602/SwargavathilPakshi_201602_53c00e41-3995-4419-8946-4d5324dcfea3.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/201602/SwargavathilPakshi_201602_53c00e41-3995-4419-8946-4d5324dcfea3.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2024-09-23T19:30:00.000Z",
+                "genre": [
+                    {
+                        "id": "58d52118e4b0e544346e2c42",
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:30:00",
+                "is3d": false,
+                "siblingOrder": 330.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": true,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "malayalam"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-07-31T00:00:00.000Z",
+            "globalServiceId": "GID_197649",
+            "_id": "197649",
+            "endDate": "2026-07-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Anamika ",
+            "globalServiceName": "Anamika (Bengali)",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2024-08-05T21:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0985\u09a8\u09be\u09ae\u09bf\u0995\u09be"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-07-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-01T11:28:35.274Z",
+            "generalInfo": {
+                "displayTitle": "Aug 05, 2024",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0985\u09a8\u09be\u09ae\u09bf\u0995\u09be"
+                    }
+                ],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2024-08-05",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2024-09-29"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Bound for over 200 years, and in a quest for indomitable power, an evil entity that Anamika releases by ill fate threatens her lover Nanda's life and her boss Rishi's unrequited love for her. Setting off an age-old battle between good and evil.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": "\u0985\u09a8\u09be\u09ae\u09bf\u0995\u09be",
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Anamika ",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": true,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Bound for over 200 years, and in a quest for indomitable power, an evil entity that Anamika releases by ill fate threatens her lover Nanda's life and her boss Rishi's unrequited love for her. Setting off an age-old battle between good and evil.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "197649",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u09ac\u09be\u0982\u09b2\u09be",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/197649/1600x1200_Anamika_197649_20014ee9-0818-4deb-958e-c15819d67254.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/197649/832x623_Anamika_197649_20014ee9-0818-4deb-958e-c15819d67254.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/197649/452x339_Anamika_197649_20014ee9-0818-4deb-958e-c15819d67254.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/197649/361x270_Anamika_197649_20014ee9-0818-4deb-958e-c15819d67254.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/197649/200x150_Anamika_197649_20014ee9-0818-4deb-958e-c15819d67254.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/197649/640x360_Anamika_197649_8615ed14-ed24-4871-8352-084d1d5d59d9.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/197649/1920x1080_Anamika_197649_8615ed14-ed24-4871-8352-084d1d5d59d9.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/197649/1280x720_Anamika_197649_8615ed14-ed24-4871-8352-084d1d5d59d9.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/197649/960x540_Anamika_197649_8615ed14-ed24-4871-8352-084d1d5d59d9.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/197649/1000x1500_Anamika_197649_76068dd8-0728-4188-9a83-8ff755396925.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/197649/500x750_Anamika_197649_76068dd8-0728-4188-9a83-8ff755396925.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/197649/250x375_Anamika_197649_76068dd8-0728-4188-9a83-8ff755396925.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/197649/640x360_Anamika_197649_e79fe6c4-55ad-4c44-8252-ea36304ac230.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/197649/1920x1080_Anamika_197649_e79fe6c4-55ad-4c44-8252-ea36304ac230.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/197649/1280x720_Anamika_197649_e79fe6c4-55ad-4c44-8252-ea36304ac230.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/197649/960x540_Anamika_197649_e79fe6c4-55ad-4c44-8252-ea36304ac230.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/197649/1000x1500_Anamika_197649_db8485d1-8b95-4f20-9a46-f4b0484480e7.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/197649/500x750_Anamika_197649_db8485d1-8b95-4f20-9a46-f4b0484480e7.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/197649/250x375_Anamika_197649_db8485d1-8b95-4f20-9a46-f4b0484480e7.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/197649/Anamika_197649_08e69b23-fc88-4a1e-9abf-d2735e937b93.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/197649/Anamika_197649_08e69b23-fc88-4a1e-9abf-d2735e937b93.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/197649/Anamika_197649_08e69b23-fc88-4a1e-9abf-d2735e937b93.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2024-08-05T21:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58db5d9ee4b04dd0266a5e60",
+                        "name": "Horror"
+                    },
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:30:00",
+                "is3d": false,
+                "siblingOrder": 506.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": true,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "bengali"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-07-31T00:00:00.000Z",
+            "globalServiceId": "GID_197648",
+            "_id": "197648",
+            "endDate": "2026-07-31T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Basu Paribar",
+            "globalServiceName": "Basu Paribar",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "harinarayan.ontrack@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 233,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2024-08-05T19:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u09ac\u09b8\u09c1 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-07-31T00:00:00.000Z",
+            "_lastModifiedAt": "2025-04-01T11:28:38.277Z",
+            "generalInfo": {
+                "displayTitle": "Aug 05, 2024",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u09ac\u09b8\u09c1 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0"
+                    }
+                ],
+                "showDisplayTabs": {
+                    "showDisplaySuffix": "",
+                    "showDisplayStart": "2024-08-05",
+                    "showDisplayType": "monthly",
+                    "showDisplayText": "MMM-YY",
+                    "showDisplayfrequency": "",
+                    "showDisplayOrder": "asc",
+                    "showAirStatus": "completed",
+                    "showDisplayEnd": "2025-02-23"
+                },
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "At retirement, Anjan Babu, an ideal family patriarch has successfully raised his children but now faces a financial crisis & endures their humiliation. Watch him guide the family through tough times with his youngest son & a caring maid for support.",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": "\u09ac\u09be\u0999\u09be\u09b2\u09c0",
+                "isDownloadable": true,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Basu Paribar",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "vodchannel",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "At retirement, Anjan Babu, an ideal family patriarch has successfully raised his children but now faces a financial crisis & endures their humiliation. Watch him guide the family through tough times with his youngest son & a caring maid for support.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "197648",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": true,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u09ac\u09be\u0999\u09be\u09b2\u09c0",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xxhdpi",
+                        "type": "preview",
+                        "resolution": "1600x1200",
+                        "link": "https://sund-images.sunnxt.com/197648/1600x1200_BasuParibar_197648_2c99dd5a-d1cc-4b12-92dd-6f4db1edf53d.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "preview",
+                        "resolution": "832x623",
+                        "link": "https://sund-images.sunnxt.com/197648/832x623_BasuParibar_197648_2c99dd5a-d1cc-4b12-92dd-6f4db1edf53d.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "preview",
+                        "resolution": "452x339",
+                        "link": "https://sund-images.sunnxt.com/197648/452x339_BasuParibar_197648_2c99dd5a-d1cc-4b12-92dd-6f4db1edf53d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "preview",
+                        "resolution": "361x270",
+                        "link": "https://sund-images.sunnxt.com/197648/361x270_BasuParibar_197648_2c99dd5a-d1cc-4b12-92dd-6f4db1edf53d.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "preview",
+                        "resolution": "200x150",
+                        "link": "https://sund-images.sunnxt.com/197648/200x150_BasuParibar_197648_2c99dd5a-d1cc-4b12-92dd-6f4db1edf53d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposterimage",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/197648/640x360_BasuParibar_197648_84d4e33a-8ec5-4585-abe6-5251e19d83b8.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/197648/1920x1080_BasuParibar_197648_84d4e33a-8ec5-4585-abe6-5251e19d83b8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposterimage",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/197648/1280x720_BasuParibar_197648_84d4e33a-8ec5-4585-abe6-5251e19d83b8.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposterimage",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/197648/960x540_BasuParibar_197648_84d4e33a-8ec5-4585-abe6-5251e19d83b8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/197648/1000x1500_BasuParibar_197648_a1afb197-d94c-4482-b220-178c09d860d9.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/197648/500x750_BasuParibar_197648_a1afb197-d94c-4482-b220-178c09d860d9.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/197648/250x375_BasuParibar_197648_a1afb197-d94c-4482-b220-178c09d860d9.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/197648/640x360_BasuParibar_197648_1bca4e8b-83d6-4bcb-841c-919373e73b45.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/197648/1920x1080_BasuParibar_197648_1bca4e8b-83d6-4bcb-841c-919373e73b45.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/197648/1280x720_BasuParibar_197648_1bca4e8b-83d6-4bcb-841c-919373e73b45.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/197648/960x540_BasuParibar_197648_1bca4e8b-83d6-4bcb-841c-919373e73b45.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/197648/1000x1500_BasuParibar_197648_c27b8c50-71b3-4f10-9632-95881aeeae4c.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/197648/500x750_BasuParibar_197648_c27b8c50-71b3-4f10-9632-95881aeeae4c.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnailimage",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/197648/250x375_BasuParibar_197648_c27b8c50-71b3-4f10-9632-95881aeeae4c.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/197648/BasuParibar_197648_e8f39b6a-af9b-4497-8440-86598285f4cc.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/197648/BasuParibar_197648_e8f39b6a-af9b-4497-8440-86598285f4cc.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "contenttitleimage",
+                        "resolution": "defaultwidthxdefaultheight",
+                        "link": "https://sund-images.sunnxt.com/197648/BasuParibar_197648_e8f39b6a-af9b-4497-8440-86598285f4cc.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2024-08-05T19:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "59cd364fe4b02d8476358636",
+                        "name": "Family Drama"
+                    },
+                    {
+                        "id": "591af8afe4b007c80bd4f665",
+                        "name": "Serials"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:30:00",
+                "is3d": false,
+                "siblingOrder": 520.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "bengali"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": true,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        }
+    ],
+    "request_id": "c9c91e7d-3422-479a-b5a4-4afdf3ccaf81",
+    "showAll": "yes",
+    "seoDescription": null,
+    "message": "OK"
+}

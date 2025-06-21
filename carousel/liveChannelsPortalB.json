@@ -1,0 +1,2833 @@
+{
+    "status": "SUCCESS",
+    "code": 200,
+    "tags": null,
+    "facets": null,
+    "title": "Popular Channels",
+    "results": [
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194403",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sun TV HD",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b9a\u0ba9\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf hd"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T18:20:22.249Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b9a\u0ba9\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf hd"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Sun TV Live",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch Sun TV HD (Tamil) Live Streaming Online on Sun NXT. Enjoy seamless and high-quality streaming of your favorite shows, movies, and more, anytime, anywhere on Sun NXT.",
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sun TV HD",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Sun TV Live",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194403",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch Sun TV HD (Tamil) Live Streaming Online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": [
+                    "af",
+                    "al",
+                    "ba",
+                    "by",
+                    "cd",
+                    "cf",
+                    "cn",
+                    "cu",
+                    "et",
+                    "hk",
+                    "hr",
+                    "iq",
+                    "ir",
+                    "kp",
+                    "lb",
+                    "ly",
+                    "me",
+                    "mk",
+                    "ml",
+                    "ni",
+                    "rs",
+                    "ru",
+                    "sd",
+                    "so",
+                    "ss",
+                    "sy",
+                    "ua",
+                    "ve",
+                    "xk"
+                ],
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194403/1000x1500_SunTVHD_194403_0f882a30-5504-46fa-9970-8e7b52b4d945.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194403/500x750_SunTVHD_194403_0f882a30-5504-46fa-9970-8e7b52b4d945.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194403/250x375_SunTVHD_194403_0f882a30-5504-46fa-9970-8e7b52b4d945.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194403/150x150_SunTVHD_194403_ffc92d28-288a-4d02-b7fa-e88c500398f4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194403/200x200_SunTVHD_194403_ffc92d28-288a-4d02-b7fa-e88c500398f4.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194403/250x250_SunTVHD_194403_ffc92d28-288a-4d02-b7fa-e88c500398f4.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194403/300x300_SunTVHD_194403_ffc92d28-288a-4d02-b7fa-e88c500398f4.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194403/1000x1000_SunTVHD_194403_ffc92d28-288a-4d02-b7fa-e88c500398f4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194403/640x360_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194403/1920x1080_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194403/1280x720_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194403/960x540_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194403/150x150_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194403/200x200_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194403/250x250_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194403/300x300_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194403/1000x1000_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": null,
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "5a4dbe0ce4b061c736c77d57",
+                        "name": "Entertainment"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 5.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194405",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "KTV HD",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b95\u0bc7\ufffd\u0b9f\u0bbf\u0bb5\u0bbf\ufffd hd"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T18:20:09.230Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b95\u0bc7\ufffd\u0b9f\u0bbf\u0bb5\u0bbf\ufffd hd"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "KTVHD",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch KTV HD (Tamil) Live Streaming Online on Sun NXT. Enjoy seamless and high-quality streaming of your favorite movies anytime, anywhere on Sun NXT.",
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "KTV HD",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "KTVHD",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194405",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch KTV HD (Tamil) Live Streaming Online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194405/1000x1500_KTVHD_194405_a35ea6d2-2894-4dab-bb19-762989c525c3.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194405/500x750_KTVHD_194405_a35ea6d2-2894-4dab-bb19-762989c525c3.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194405/250x375_KTVHD_194405_a35ea6d2-2894-4dab-bb19-762989c525c3.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194405/150x150_KTVHD_194405_c3a752d9-5a33-4e63-89d8-c8f38e94ae52.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194405/200x200_KTVHD_194405_c3a752d9-5a33-4e63-89d8-c8f38e94ae52.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194405/250x250_KTVHD_194405_c3a752d9-5a33-4e63-89d8-c8f38e94ae52.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194405/300x300_KTVHD_194405_c3a752d9-5a33-4e63-89d8-c8f38e94ae52.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194405/1000x1000_KTVHD_194405_c3a752d9-5a33-4e63-89d8-c8f38e94ae52.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194405/640x360_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194405/1920x1080_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194405/1280x720_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194405/960x540_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194405/150x150_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194405/200x200_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194405/250x250_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194405/300x300_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194405/1000x1000_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "5a4dbe0ce4b061c736c77d57",
+                        "name": "Entertainment"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 10.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194406",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sun Music HD",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b9a\u0ba9\u0bcd \u0bae\u0bbf\u0baf\u0bc2\u0b9a\u0bbf\u0b95\u0bcd\ufffdhd"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T18:20:15.322Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b9a\u0ba9\u0bcd \u0bae\u0bbf\u0baf\u0bc2\u0b9a\u0bbf\u0b95\u0bcd\ufffdhd"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Sun Music is a 24-hour Tamil music channel from the Sun TV Network in India.",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch Sun Music HD (Tamil) Live Streaming Online on Sun NXT. Enjoy seamless and high-quality streaming of your favorite music video, shows, and more, anytime, anywhere on Sun NXT.",
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sun Music HD",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Sun Music is a 24-hour music channel from the well-known Sun Network in India. The channel features Tamil music from Kollywood. Most of the shows aired on Sun Music requires call-in audience participation, where the callers speak to a video jockey and request songs that may be dedicated to their loved ones.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194406",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch Sun Music HD (Tamil) Live Streaming Online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194406/1000x1500_SunMusicHD_194406_beddefd5-b474-4712-b20b-5f8590b675c9.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194406/500x750_SunMusicHD_194406_beddefd5-b474-4712-b20b-5f8590b675c9.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194406/250x375_SunMusicHD_194406_beddefd5-b474-4712-b20b-5f8590b675c9.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194406/150x150_SunMusicHD_194406_10523bc7-e278-44b8-88b1-c8b9dde3e5b4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194406/200x200_SunMusicHD_194406_10523bc7-e278-44b8-88b1-c8b9dde3e5b4.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194406/250x250_SunMusicHD_194406_10523bc7-e278-44b8-88b1-c8b9dde3e5b4.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194406/300x300_SunMusicHD_194406_10523bc7-e278-44b8-88b1-c8b9dde3e5b4.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194406/1000x1000_SunMusicHD_194406_10523bc7-e278-44b8-88b1-c8b9dde3e5b4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194406/640x360_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194406/1920x1080_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194406/1280x720_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194406/960x540_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194406/150x150_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194406/200x200_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194406/250x250_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194406/300x300_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194406/1000x1000_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "HD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "59883457e4b0ddbe122d9f98",
+                        "name": "Music"
+                    }
+                ],
+                "actionType": null,
+                "duration": "2:0:00",
+                "is3d": false,
+                "siblingOrder": 15.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194391",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sun Life",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b9a\u0ba9\u0bcd \u0bb2\u0bc8\u0baa\u0bcd"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T18:21:42.940Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b9a\u0ba9\u0bcd \u0bb2\u0bc8\u0baa\u0bcd"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "SUNLIFE",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sun Life",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "SUNLIFE",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194391",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194391/1000x1500_SunLife_194391_17b50572-bb73-4e57-afd8-65619fae4525.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194391/500x750_SunLife_194391_17b50572-bb73-4e57-afd8-65619fae4525.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194391/250x375_SunLife_194391_17b50572-bb73-4e57-afd8-65619fae4525.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194391/150x150_SunLife_194391_037d0dbb-a8fb-4844-884d-24b84ce543ca.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194391/200x200_SunLife_194391_037d0dbb-a8fb-4844-884d-24b84ce543ca.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194391/250x250_SunLife_194391_037d0dbb-a8fb-4844-884d-24b84ce543ca.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194391/300x300_SunLife_194391_037d0dbb-a8fb-4844-884d-24b84ce543ca.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194391/1000x1000_SunLife_194391_037d0dbb-a8fb-4844-884d-24b84ce543ca.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194391/640x360_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194391/1920x1080_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194391/1280x720_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194391/960x540_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194391/150x150_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194391/200x200_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194391/250x250_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194391/300x300_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194391/1000x1000_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "SD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "5a4dbe0ce4b061c736c77d57",
+                        "name": "Entertainment"
+                    }
+                ],
+                "actionType": null,
+                "duration": "2:0:00",
+                "is3d": false,
+                "siblingOrder": 20.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194404",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sun News",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b9a\u0ba9\u0bcd \u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T21:03:42.633Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b9a\u0ba9\u0bcd \u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "24 x 7 live",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch Sun News (Tamil) Live Streaming Online on Sun NXT. Enjoy seamless and high-quality streaming of breaking news, political updates anytime, anywhere on Sun NXT.",
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sun News",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "Guest",
+                "seoH1Tag": null,
+                "description": "24 x 7 live",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194404",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch Sun News (Tamil) Live Streaming Online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": {
+                    "rule": [
+                        {
+                            "duration": 0,
+                            "rulesConditions": [
+                                {
+                                    "values": [
+                                        "GB"
+                                    ],
+                                    "name": "country",
+                                    "condition": "IN"
+                                }
+                            ],
+                            "name": "Paid for UK",
+                            "rulesProperties": [
+                                {
+                                    "values": [
+                                        "SVOD"
+                                    ],
+                                    "name": "contentRights"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [
+                    "avod"
+                ],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194404/1000x1500_SunNews_194404_d8143a0f-789c-4ef9-8d84-04b081e00c58.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194404/500x750_SunNews_194404_d8143a0f-789c-4ef9-8d84-04b081e00c58.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194404/250x375_SunNews_194404_d8143a0f-789c-4ef9-8d84-04b081e00c58.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194404/150x150_SunNews_194404_c3259d91-bb84-43a0-8731-7811c08e6777.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194404/200x200_SunNews_194404_c3259d91-bb84-43a0-8731-7811c08e6777.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194404/250x250_SunNews_194404_c3259d91-bb84-43a0-8731-7811c08e6777.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194404/300x300_SunNews_194404_c3259d91-bb84-43a0-8731-7811c08e6777.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194404/1000x1000_SunNews_194404_c3259d91-bb84-43a0-8731-7811c08e6777.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194404/1920x1080_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194404/1280x720_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194404/960x540_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194404/150x150_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194404/200x200_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194404/250x250_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194404/300x300_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194404/1000x1000_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "SD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "593688e9e4b0cc15ae4a9452",
+                        "name": "News"
+                    }
+                ],
+                "actionType": null,
+                "duration": "2:10:00",
+                "is3d": false,
+                "siblingOrder": 25.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "4.5",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": false,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194407",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Adithya TV",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b86\u0ba4\u0bbf\u0ba4\u0bcd\u0baf\u0bbe\ufffd\u0b9f\u0bbf\u0bb5\u0bbf"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T18:19:46.942Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b86\u0ba4\u0bbf\u0ba4\u0bcd\u0baf\u0bbe\ufffd\u0b9f\u0bbf\u0bb5\u0bbf"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Adithya TV is a 24-hour Tamil comedy channel from the Sun TV",
+                "ssaiEnabled": "",
+                "seoDescription": null,
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Adithya TV",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Adithya TV is a 24-hour Tamil comedy channel from the Sun TV Network in India. This channel telecasts old as well as new comedy, and is one of the most watched comedy channels in Tamil. Some of the popular shows on Adithya TV are Vadivelu Comedy, Konjum Nadinga Boss and Double Galatta.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194407",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": null,
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194407/1000x1500_AdithyaTV_194407_8bbfa0ee-8ce3-4046-8795-eaf5ecfb3900.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194407/500x750_AdithyaTV_194407_8bbfa0ee-8ce3-4046-8795-eaf5ecfb3900.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194407/250x375_AdithyaTV_194407_8bbfa0ee-8ce3-4046-8795-eaf5ecfb3900.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194407/150x150_AdithyaTV_194407_c1cbcdfd-466c-409e-8115-c745554ed2af.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194407/200x200_AdithyaTV_194407_c1cbcdfd-466c-409e-8115-c745554ed2af.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194407/250x250_AdithyaTV_194407_c1cbcdfd-466c-409e-8115-c745554ed2af.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194407/300x300_AdithyaTV_194407_c1cbcdfd-466c-409e-8115-c745554ed2af.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194407/1000x1000_AdithyaTV_194407_c1cbcdfd-466c-409e-8115-c745554ed2af.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194407/640x360_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194407/1920x1080_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194407/1280x720_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194407/150x150_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194407/200x200_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194407/250x250_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194407/300x300_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194407/1000x1000_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "SD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "58db5defe4b04dd0266a5f52",
+                        "name": "Comedy"
+                    }
+                ],
+                "actionType": null,
+                "duration": "2:0:00",
+                "is3d": false,
+                "siblingOrder": 30.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194390",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Chutti TV",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf \u0b9f\u0bbf\u0bb5\u0bbf"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T18:21:04.363Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf \u0b9f\u0bbf\u0bb5\u0bbf"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "CHUTTITV",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch Chutti TV (Tamil) Live Streaming Online on Sun NXT. Enjoy seamless and high-quality streaming of your favorite cartoons anytime, anywhere on Sun NXT.",
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Chutti TV",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "CHUTTITV",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194390",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch Chutti TV (Tamil) Live Streaming Online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": [
+                    "ad",
+                    "ae",
+                    "af",
+                    "ag",
+                    "ai",
+                    "al",
+                    "am",
+                    "an",
+                    "ao",
+                    "aq",
+                    "ar",
+                    "as",
+                    "at",
+                    "au",
+                    "aw",
+                    "ax",
+                    "az",
+                    "ba",
+                    "bb",
+                    "bd",
+                    "be",
+                    "bf",
+                    "bg",
+                    "bh",
+                    "bi",
+                    "bj",
+                    "bl",
+                    "bm",
+                    "bn",
+                    "bo",
+                    "bq",
+                    "br",
+                    "bs",
+                    "bt",
+                    "bv",
+                    "bw",
+                    "by",
+                    "bz",
+                    "ca",
+                    "cc",
+                    "cd",
+                    "cf",
+                    "cg",
+                    "ch",
+                    "ci",
+                    "ck",
+                    "cl",
+                    "cm",
+                    "cn",
+                    "co",
+                    "cr",
+                    "cs",
+                    "cu",
+                    "cv",
+                    "cw",
+                    "cx",
+                    "cy",
+                    "cz",
+                    "de",
+                    "dj",
+                    "dk",
+                    "dm",
+                    "do",
+                    "dz",
+                    "ec",
+                    "ee",
+                    "eg",
+                    "eh",
+                    "er",
+                    "es",
+                    "et",
+                    "eu",
+                    "fi",
+                    "fj",
+                    "fk",
+                    "fm",
+                    "fo",
+                    "fr",
+                    "ga",
+                    "gb",
+                    "gd",
+                    "ge",
+                    "gf",
+                    "gg",
+                    "gh",
+                    "gi",
+                    "gl",
+                    "gm",
+                    "gn",
+                    "gp",
+                    "gq",
+                    "gr",
+                    "gs",
+                    "gt",
+                    "gu",
+                    "gw",
+                    "gy",
+                    "hk",
+                    "hm",
+                    "hn",
+                    "hr",
+                    "ht",
+                    "hu",
+                    "id",
+                    "ie",
+                    "il",
+                    "im",
+                    "io",
+                    "iq",
+                    "ir",
+                    "is",
+                    "it",
+                    "je",
+                    "jm",
+                    "jo",
+                    "jp",
+                    "ke",
+                    "kg",
+                    "kh",
+                    "ki",
+                    "km",
+                    "kn",
+                    "kp",
+                    "kr",
+                    "kw",
+                    "ky",
+                    "kz",
+                    "la",
+                    "lb",
+                    "lc",
+                    "li",
+                    "lk",
+                    "lr",
+                    "ls",
+                    "lt",
+                    "lu",
+                    "lv",
+                    "ly",
+                    "ma",
+                    "mc",
+                    "md",
+                    "me",
+                    "mf",
+                    "mg",
+                    "mh",
+                    "mk",
+                    "ml",
+                    "mm",
+                    "mn",
+                    "mo",
+                    "mp",
+                    "mq",
+                    "mr",
+                    "ms",
+                    "mt",
+                    "mu",
+                    "mv",
+                    "mw",
+                    "mx",
+                    "my",
+                    "mz",
+                    "na",
+                    "nc",
+                    "ne",
+                    "nf",
+                    "ng",
+                    "ni",
+                    "nl",
+                    "no",
+                    "np",
+                    "nr",
+                    "nu",
+                    "nz",
+                    "om",
+                    "pa",
+                    "pe",
+                    "pf",
+                    "pg",
+                    "ph",
+                    "pk",
+                    "pl",
+                    "pm",
+                    "pn",
+                    "pr",
+                    "ps",
+                    "pt",
+                    "pw",
+                    "qa",
+                    "re",
+                    "ro",
+                    "rs",
+                    "ru",
+                    "rw",
+                    "sa",
+                    "sb",
+                    "sc",
+                    "sd",
+                    "se",
+                    "sg",
+                    "sh",
+                    "si",
+                    "sj",
+                    "sk",
+                    "sm",
+                    "sn",
+                    "so",
+                    "sr",
+                    "ss",
+                    "st",
+                    "sv",
+                    "sx",
+                    "sy",
+                    "sz",
+                    "tc",
+                    "td",
+                    "tf",
+                    "tg",
+                    "th",
+                    "tj",
+                    "tk",
+                    "tl",
+                    "tm",
+                    "tn",
+                    "to",
+                    "tr",
+                    "tt",
+                    "tv",
+                    "tw",
+                    "tz",
+                    "ua",
+                    "uae",
+                    "uc",
+                    "uk",
+                    "um",
+                    "us",
+                    "uy",
+                    "uz",
+                    "va",
+                    "vc",
+                    "ve",
+                    "vg",
+                    "vi",
+                    "vn",
+                    "vu",
+                    "wf",
+                    "ws",
+                    "xk",
+                    "xt",
+                    "ye",
+                    "yt",
+                    "za",
+                    "zm",
+                    "zw"
+                ],
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194390/1000x1500_ChuttiTV_194390_37991592-6ec7-4bb7-beba-7aa7c018fa76.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194390/500x750_ChuttiTV_194390_37991592-6ec7-4bb7-beba-7aa7c018fa76.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194390/250x375_ChuttiTV_194390_37991592-6ec7-4bb7-beba-7aa7c018fa76.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194390/150x150_ChuttiTV_194390_3e7d5933-0496-48e4-8a1f-33de11eea518.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194390/200x200_ChuttiTV_194390_3e7d5933-0496-48e4-8a1f-33de11eea518.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194390/250x250_ChuttiTV_194390_3e7d5933-0496-48e4-8a1f-33de11eea518.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194390/300x300_ChuttiTV_194390_3e7d5933-0496-48e4-8a1f-33de11eea518.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194390/1000x1000_ChuttiTV_194390_3e7d5933-0496-48e4-8a1f-33de11eea518.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194390/1920x1080_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194390/1280x720_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194390/960x540_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194390/150x150_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194390/200x200_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194390/250x250_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194390/300x300_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194390/1000x1000_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "SD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "5a4dbe0ce4b061c736c77d57",
+                        "name": "Entertainment"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 35.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194408",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sun TV",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b9a\u0ba9\u0bcd\ufffd\u0b9f\u0bbf\u0bb5\u0bbf"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T18:20:18.784Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b9a\u0ba9\u0bcd\ufffd\u0b9f\u0bbf\u0bb5\u0bbf"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Sun TV is a Tamil satellite television station. It is the flagship channel of the Chennai-based Sun TV Network.",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch Sun TV (Tamil) Live Streaming Online on Sun NXT. Enjoy seamless and high-quality streaming of your favorite shows, movies, and more, anytime, anywhere on Sun NXT.",
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sun TV",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Sun TV is a Tamil satellite television station. It is the flagship channel of the Chennai-based Sun TV Network.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194408",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch Sun TV (Tamil) Live Streaming Online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": [
+                    "af",
+                    "al",
+                    "ba",
+                    "by",
+                    "cd",
+                    "cf",
+                    "cn",
+                    "cu",
+                    "et",
+                    "hk",
+                    "hr",
+                    "iq",
+                    "ir",
+                    "kp",
+                    "lb",
+                    "ly",
+                    "me",
+                    "mk",
+                    "ml",
+                    "ni",
+                    "rs",
+                    "ru",
+                    "sd",
+                    "so",
+                    "ss",
+                    "sy",
+                    "ua",
+                    "ve",
+                    "xk"
+                ],
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194408/1000x1500_SunTV_194408_a77ab1c2-e7b1-40bb-8885-9216173d7c89.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194408/500x750_SunTV_194408_a77ab1c2-e7b1-40bb-8885-9216173d7c89.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194408/250x375_SunTV_194408_a77ab1c2-e7b1-40bb-8885-9216173d7c89.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194408/150x150_SunTV_194408_be56f765-1ee8-4f44-a158-c918d52d512d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194408/200x200_SunTV_194408_be56f765-1ee8-4f44-a158-c918d52d512d.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194408/250x250_SunTV_194408_be56f765-1ee8-4f44-a158-c918d52d512d.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194408/300x300_SunTV_194408_be56f765-1ee8-4f44-a158-c918d52d512d.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194408/1000x1000_SunTV_194408_be56f765-1ee8-4f44-a158-c918d52d512d.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194408/1920x1080_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194408/1280x720_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194408/960x540_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194408/150x150_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194408/200x200_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194408/250x250_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194408/300x300_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194408/1000x1000_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "SD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "5a4dbe0ce4b061c736c77d57",
+                        "name": "Entertainment"
+                    }
+                ],
+                "actionType": null,
+                "duration": "2:0:00",
+                "is3d": false,
+                "siblingOrder": 40.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194409",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "KTV",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b95\u0bc7 \u0b9f\u0bbf\u0bb5\u0bbf"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-05-31T18:20:06.207Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b95\u0bc7 \u0b9f\u0bbf\u0bb5\u0bbf"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "KTV",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch KTV (Tamil) Live Streaming Online on Sun NXT. Enjoy seamless and high-quality streaming of your favorite movies anytime, anywhere on Sun NXT.",
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "KTV",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "KTV",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194409",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch KTV (Tamil) Live Streaming Online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194409/1000x1500_KTV_194409_5e89dd6b-bf9b-4601-a929-92a1c41ac725.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194409/500x750_KTV_194409_5e89dd6b-bf9b-4601-a929-92a1c41ac725.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194409/250x375_KTV_194409_5e89dd6b-bf9b-4601-a929-92a1c41ac725.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194409/150x150_KTV_194409_b6ac61e6-53f8-40c9-acb4-b151cdd7291c.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194409/200x200_KTV_194409_b6ac61e6-53f8-40c9-acb4-b151cdd7291c.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194409/250x250_KTV_194409_b6ac61e6-53f8-40c9-acb4-b151cdd7291c.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194409/300x300_KTV_194409_b6ac61e6-53f8-40c9-acb4-b151cdd7291c.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194409/1000x1000_KTV_194409_b6ac61e6-53f8-40c9-acb4-b151cdd7291c.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194409/640x360_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194409/1920x1080_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194409/1280x720_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194409/960x540_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194409/150x150_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194409/200x200_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194409/250x250_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194409/300x300_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194409/1000x1000_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "SD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "5a4dbe0ce4b061c736c77d57",
+                        "name": "Entertainment"
+                    }
+                ],
+                "actionType": null,
+                "duration": "0:5:00",
+                "is3d": false,
+                "siblingOrder": 45.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        },
+        {
+            "startDate": "2024-06-19T00:00:00.000Z",
+            "globalServiceId": null,
+            "_id": "194410",
+            "endDate": "2026-06-19T00:00:00.000Z",
+            "promotionInfo": null,
+            "title": "Sun Music",
+            "globalServiceName": "",
+            "relatedCast": {},
+            "publishingHouse": {
+                "userName": "techott@sunnetwork.in",
+                "publishingHouseId": 45,
+                "userId": 166,
+                "publishingHouseName": "SUN"
+            },
+            "releaseDate": "2020-04-21T00:00:00.000Z",
+            "altTitle": [
+                {
+                    "language": "type",
+                    "title": "\u0b9a\u0ba9\u0bcd \u0bae\u0bbf\u0baf\u0bc2\u0b9a\u0bbf\u0b95\u0bcd"
+                }
+            ],
+            "programId": "",
+            "_expiresAt": "2026-06-19T00:00:00.000Z",
+            "_lastModifiedAt": "2025-06-18T07:42:06.777Z",
+            "generalInfo": {
+                "displayTitle": "Apr 21, 2020",
+                "contentPlayDuration": null,
+                "altTitle": [
+                    {
+                        "language": "type",
+                        "title": "\u0b9a\u0ba9\u0bcd \u0bae\u0bbf\u0baf\u0bc2\u0b9a\u0bbf\u0b95\u0bcd"
+                    }
+                ],
+                "showDisplayTabs": {},
+                "actionType": null,
+                "seoH5Tag": null,
+                "briefDescription": "Sun Music is a 24-hour Tamil music channel from the Sun TV Network in India.",
+                "ssaiEnabled": "",
+                "seoDescription": "Watch Sun Music (Tamil) Live Streaming Online on Sun NXT. Enjoy seamless and high-quality streaming of your favorite music video, shows, and more, anytime, anywhere on Sun NXT.",
+                "alterDescription": null,
+                "isDownloadable": false,
+                "seoH6Tag": null,
+                "category": "",
+                "isDolby": false,
+                "title": "Sun Music",
+                "isAtmos": false,
+                "isDolbyvision": false,
+                "altGenre": null,
+                "isHdr10plus": false,
+                "showWatermark": false,
+                "altDisplayTitle": "",
+                "tagLine": "",
+                "altDescription": null,
+                "type": "live",
+                "accessControl": "",
+                "seoH1Tag": null,
+                "description": "Sun Music is a 24-hour music channel from the well-known Sun Network in India. The channel features Tamil music from Kollywood. Most of the shows aired on Sun Music requires call-in audience participation, where the callers speak to a video jockey and request songs that may be dedicated to their loved ones.",
+                "seoH4Tag": null,
+                "previousContent": "",
+                "isHdr": false,
+                "deepLinkiOS": "",
+                "_id": "194410",
+                "seoH3Tag": null,
+                "isDvr": false,
+                "alternateRelatedTitle": [],
+                "seoTitle": "Watch Sun Music (Tamil) Live Streaming Online | Sun NXT",
+                "actionURL": null,
+                "nextContent": "",
+                "contentRule": null,
+                "videoAvailable": true,
+                "preferredCdn": null,
+                "isAzure": false,
+                "contentRights": [],
+                "relatedTitle": "",
+                "isHdr10": false,
+                "restrictedCountries": null,
+                "isSellable": false,
+                "equivalentChannelId": "",
+                "altLanguage": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                "akamaiTag": "",
+                "altBriefDescription": null,
+                "partnerId": null,
+                "deepLink": "",
+                "seoH2Tag": null
+            },
+            "images": {
+                "values": [
+                    {
+                        "profile": "xhdpi",
+                        "type": "thumbnail",
+                        "resolution": "1000x1500",
+                        "link": "https://sund-images.sunnxt.com/194410/1000x1500_SunMusic_194410_516f8c66-632a-43c1-9b51-0343b18246a4.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "thumbnail",
+                        "resolution": "500x750",
+                        "link": "https://sund-images.sunnxt.com/194410/500x750_SunMusic_194410_516f8c66-632a-43c1-9b51-0343b18246a4.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "thumbnail",
+                        "resolution": "250x375",
+                        "link": "https://sund-images.sunnxt.com/194410/250x375_SunMusic_194410_516f8c66-632a-43c1-9b51-0343b18246a4.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimage",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194410/150x150_SunMusic_194410_db2d7e79-d598-4618-bd97-0dddfe66bba8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimage",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194410/200x200_SunMusic_194410_db2d7e79-d598-4618-bd97-0dddfe66bba8.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimage",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194410/250x250_SunMusic_194410_db2d7e79-d598-4618-bd97-0dddfe66bba8.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimage",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194410/300x300_SunMusic_194410_db2d7e79-d598-4618-bd97-0dddfe66bba8.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimage",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194410/1000x1000_SunMusic_194410_db2d7e79-d598-4618-bd97-0dddfe66bba8.jpg"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "coverposter",
+                        "resolution": "640x360",
+                        "link": "https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "coverposter",
+                        "resolution": "1920x1080",
+                        "link": "https://sund-images.sunnxt.com/194410/1920x1080_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "coverposter",
+                        "resolution": "1280x720",
+                        "link": "https://sund-images.sunnxt.com/194410/1280x720_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "coverposter",
+                        "resolution": "960x540",
+                        "link": "https://sund-images.sunnxt.com/194410/960x540_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg"
+                    },
+                    {
+                        "profile": "ldpi",
+                        "type": "squareimagev2",
+                        "resolution": "150x150",
+                        "link": "https://sund-images.sunnxt.com/194410/150x150_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png"
+                    },
+                    {
+                        "profile": "mdpi",
+                        "type": "squareimagev2",
+                        "resolution": "200x200",
+                        "link": "https://sund-images.sunnxt.com/194410/200x200_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png"
+                    },
+                    {
+                        "profile": "hdpi",
+                        "type": "squareimagev2",
+                        "resolution": "250x250",
+                        "link": "https://sund-images.sunnxt.com/194410/250x250_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png"
+                    },
+                    {
+                        "profile": "xhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "300x300",
+                        "link": "https://sund-images.sunnxt.com/194410/300x300_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png"
+                    },
+                    {
+                        "profile": "xxhdpi",
+                        "type": "squareimagev2",
+                        "resolution": "1000x1000",
+                        "link": "https://sund-images.sunnxt.com/194410/1000x1000_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png"
+                    }
+                ]
+            },
+            "content": {
+                "videoQuality": "SD",
+                "parentIds": null,
+                "drmType": "",
+                "releaseDate": "2020-04-21T00:00:00.000Z",
+                "genre": [
+                    {
+                        "id": "59883457e4b0ddbe122d9f98",
+                        "name": "Music"
+                    }
+                ],
+                "actionType": null,
+                "duration": "2:0:00",
+                "is3d": false,
+                "siblingOrder": 50.0,
+                "serialNo": null,
+                "isDolbyvision": false,
+                "contentRating": "3.0",
+                "drmEnabled": true,
+                "showWatermark": false,
+                "isChromeCastEnabled": true,
+                "categoryName": "Suitable For All Ages",
+                "isDolby": false,
+                "isHdr": false,
+                "language": [
+                    "tamil"
+                ],
+                "certifiedRatings": {
+                    "values": [
+                        {
+                            "rating": "U",
+                            "country": null,
+                            "description": null,
+                            "name": "certifiedRating",
+                            "title": null
+                        },
+                        {
+                            "rating": "All",
+                            "country": "IN",
+                            "description": "Suitable for all age viewers",
+                            "name": "cbfcRatingOTT",
+                            "title": "Suitable for all age viewers"
+                        }
+                    ]
+                },
+                "actionURL": null,
+                "isMpegDash": true,
+                "isAzure": false,
+                "adEnabled": true,
+                "isHdr10plus": false,
+                "isHdr10": false,
+                "isAtmos": false,
+                "categoryType": "All"
+            },
+            "altGlobalServiceName": ""
+        }
+    ],
+    "request_id": "c0ab8d8b-aee9-4e4a-897c-6304908494ef",
+    "showAll": "yes",
+    "seoDescription": null,
+    "message": "OK"
+}
